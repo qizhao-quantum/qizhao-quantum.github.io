@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Home"
+title: "Qi Zhao - Home"
 layout: homelay
 excerpt: "Qi Zhao"
 sitemap: false
