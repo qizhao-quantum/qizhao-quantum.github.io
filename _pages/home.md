@@ -1,7 +1,7 @@
 ---
 title: "Allan Lab - Home"
 layout: homelay
-excerpt: "Qi Zhao."
+excerpt: "Qi Zhao"
 sitemap: false
 permalink: /
 ---
