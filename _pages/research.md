@@ -1,17 +1,17 @@
 ---
-title: "InspiringGroup - Publications"
+title: "Qi Zhao - Research."
 layout: gridlay
-excerpt: "InspiringGroup -- Publications."
+excerpt: "Qi Zhao - Research."
 sitemap: false
 permalink: /research/
 ---
 
-## Publications
+## Research directions
 
-### Group highlights
+{%### Group highlights}
 
 <div class="largefont">
-(The following are our research highlights. For a full publication list, please visit [DBLP](https://dblp.org/pid/69/11514.html))
+(The following are our research directions.)
 </div>
 
 {% assign number_printed = 0 %}
@@ -77,29 +77,5 @@ permalink: /research/
 
 ---
 
-### Selected Publications
 
-{% for publi in site.data.publist %}
-
-  <b>{{ publi.title }}</b><br />
-  <em>{{ publi.authors }} </em><br />
-  {{publi.conference}}<br />
-  {%- if publi.pdf != nil -%}
-  <a href="{{ publi.pdf }}">[pdf]</a>
-  {% endif %}
-  {%- if publi.doi != nil -%}
-  <a href="{{ publi.doi }}">[doi]</a>
-  {% endif %}
-  {%- if publi.slides != nil -%}
-  <a href="{{ publi.slides }}">[slides]</a>
-  {% endif %}
-  {%- if publi.codes != nil -%}
-  <a href="{{ publi.codes }}">[codes]</a>
-  {% endif %}
-  {%- if publi.patent != nil -%}
-  <a href="{{ publi.patent }}">[patent]</a>
-  {% endif %}
-
-<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-{% endfor %}
 <br />
