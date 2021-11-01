@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Qi Zhao - Hobbies."
 layout: hobbylay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Qi Zhao - Hobbies."
 sitemap: false
 permalink: /hobbies
 ---
