@@ -1,4 +1,4 @@
-- title: "Exploiting anticommutation in {H}amiltonian simulation"
+- title: "Exploiting anticommutation in Hamiltonian simulation"
   image: TBG_SL.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
   authors: Q. Zhao and X. Yuan
@@ -8,13 +8,14 @@
   highlight: 0
   news2:
 
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
+
+- title: "Quantum teleportation of physical qubits into logical code spaces"
   image: TBG_SL.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+  authors: Y.-H. Luo, M.-C. Chen, M. Erhard, H.-S. Zhong, D. Wu, H.-Y. Tang, Q. Zhao, X.-L. Wang, K. Fujii, L. Li, N.-L. Liu, K. Nemoto, W. J. Munro, C.-Y. Lu, A. Zeilinger, and J.-W. Pan,
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
+    url: https://www.pnas.org/content/118/36/e2026250118
+    display:  Proceedings of the National Academy of Sciences, vol. 118, no. 36, 2021. 
   highlight: 0
   news2: #See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
 
