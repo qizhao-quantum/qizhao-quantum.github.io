@@ -19,7 +19,7 @@
   highlight: 0
   news2: #See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
   
-- title: “Quantum simulation with hybrid tensor networks”
+- title: "Quantum simulation with hybrid tensor networks"
   image: TiNHigh.png
   description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
   authors: X. Yuan, J. Sun, J. Liu, Q. Zhao*, and Y. Zhou
@@ -28,7 +28,7 @@
     display: Phys. Rev. Lett., vol. 127, p. 040501, Jul 2021.
   highlight: 0
 
-- title: “Universal and operational benchmarking of quantum memories” 
+- title: "Universal and operational benchmarking of quantum memories"
   image: YSR.png
   description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
   authors: X. Yuan, Y. Liu, Q. Zhao, B. Regula, J. Thompson, and M. Gu
@@ -37,7 +37,7 @@
     display:  npj Quantum Information, vol. 7, no. 1, pp. 1–8, 2021.
   highlight: 0
 
-- title: “Entanglement-free witnessing of quantum incompatibility in a high-dimensional system” 
+- title: "Entanglement-free witnessing of quantum incompatibility in a high-dimensional system"
   image: TBG_ARPES.png
   description:
   authors: D.Wu, Q. Zhao* (Co-first author), Y.-H. Luo, H.-S. Zhong, L.-C. Peng, K. Chen, P. Xue, L. Li, N.-L. Liu, C.-Y. Lu, and J.-W. Pan
@@ -47,7 +47,7 @@
   highlight: 0
   news2:
 
-- title: “Experimental realization of device-independent quantum randomness expansion”
+- title: "Experimental realization of device-independent quantum randomness expansion"
   image: TBG_ARPES.png
   description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
   authors: M.-H. Li, X. Zhang,W.-Z. Liu, S.-R. Zhao, B. Bai, Y. Liu, Q. Zhao, Y. Peng, J. Zhang, Y. Zhang, W. J. Munro, X. Ma, Q. Zhang, J. Fan, and J.-W. Pan 
@@ -57,7 +57,7 @@
   highlight: 1
   news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
 
-- title: “Experimental exploration of five-qubit quantum error correcting code with superconducting qubits”
+- title: "Experimental exploration of five-qubit quantum error correcting code with superconducting qubits"
   image: Direct.png
   authors: M. Gong, X. Yuan, S.Wang, Y. Wu, Y. Zhao, C. Zha, S. Li, Z. Zhang, Q. Zhao, Y. Liu, F. Liang, J. Lin, Y. Xu, H. Deng, H. Rong, H. Lu, S. C. Benjamin, C.-Z. Peng, X. Ma, Y.-A. Chen, X. Zhu, and J.-W. Pan
   description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
@@ -67,7 +67,7 @@
   highlight: 0
   news2:
 
-- title: “Measurement-device-independent entanglement witness of tripartite entangled states and its applications"
+- title: "Measurement-device-independent entanglement witness of tripartite entangled states and its applications"
   image: TBG_ARPES.png
   authors: Z.-D. Li, Q. Zhao (Co-first author), R. Zhang, L.-Z. Liu, X.-F. Yin, X. Zhang, Y.-Y. Fei, K. Chen, N.-L. Liu, F. Xu, Y.-A. Chen, L. Li, and J.-W. Pan
   description:
@@ -78,206 +78,207 @@
   news2:
 
 
-
-
-- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
+- title: "Randomness expansion secured by quantum contextuality"
   image: TBG_ARPES.png
   description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
+  authors: M. Um, Q. Zhao (Co-first author), J. Zhang, P.Wang, Y.Wang, M. Qiao, H. Zhou, X. Ma, and K. Kim
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
-    display:  PRB 102, 115416 (2020)
+    url: https://link.aps.org/doi/10.1103/PhysRevApplied.13.034077
+    display:  Phys. Rev. Applied, vol. 13, p. 034077, Mar 2020. 
   highlight: 0
   news2:
 
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
+- title: "Simultaneous certification of entangled states and measurements in bounded dimensional semiquantum games"
   image: STS_news.png
   description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
+  authors: X. Zhang and Q. Zhao*
   link:
-    url: https://www.nature.com/articles/s41586-019-1408-8
-    display:  Nature 571, 541 (2019)
-  highlight: 1
+    url: https://link.aps.org/doi/10.1103/PhysRevResearch.2.033400
+    display:  Phys. Rev. Research, vol. 2, p. 033400, Sep 2020.
+  highlight: 0
   news2:
 
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
+- title: "High-threshold code for modular hardware with asymmetric noise"
   image: SmartPub.png
   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+  authors: X. Xu, Q. Zhao, X. Yuan, and S. C. Benjamin
   link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
-  highlight: 1
-  news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
+    url: https://link.aps.org/doi/10.1103/PhysRevApplied.12.064006
+    display: Phys. Rev. Applied, vol. 12, p. 064006, Dec 2019.
+  highlight: 0
+  news2: 
 
-- title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
+- title: "Theory of variational quantum simulation"
   image: PbSpub.png
   description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
+  authors: X. Yuan, S. Endo, Q. Zhao, Y. Li, and S. C. Benjamin
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
-    display:  Phys. Rev. B 100, 104506 (2019)
-  highlight: 1
+    url: https://doi.org/10.22331/q-2019-10-07-191
+    display:  Quantum, vol. 3, p. 191, Oct. 2019. [Online]. 
+  highlight: 0
   news2:
 
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
+- title: "One-shot coherence distillation with catalysts"
   image: DomePub.png
   description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
+  authors: S. Chen, X. Zhang, Y. Zhou, and Q. Zhao*
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5064442
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
-  highlight: 1
+    url: https://link.aps.org/doi/10.1103/PhysRevA.100.042323
+    display:  Phys. Rev. A, vol. 100, p. 042323, Oct 2019. 
+  highlight: 0
   news2:
 
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
+
+- title: "Detecting multipartite entanglement structure with minimal resources"
   image: Pub_BCl.png
   description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
+  authors: Y. Zhou, Q. Zhao, X. Yuan, and X. Ma
   link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
-  highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
-
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
+    url: https://doi.org/10.1038/s41534-019-0200-9
+    display:  npj Quantum Information, vol. 5, p. 83, 2019. 
+  highlight: 0
+  news1: 
+  
+- title: "Quantum coherence and intrinsic randomness"
   image: Fano.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
+  authors: X. Yuan, Q. Zhao, D. Girolami, and X. Ma
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/qute.201900053
+    display:  Quantum Technologies, vol. 0, no. 0, p. 1900053. 
   highlight: 0
   news2:
 
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
+- title: "Efficient and robust detection of multipartite greenberger-horne-zeilinger-like states"
   image: dummy.png
   description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
+  authors: Q. Zhao, G.Wang, X. Yuan, and X. Ma
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
+    url: https://link.aps.org/doi/10.1103/PhysRevA.99.052349
+    display:  Phys. Rev. A, vol. 99, p. 052349, May 2019. 
   highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
+  news2: 
 
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
+- title:  "Compatibility of causal hidden-variable theories with a delayed-choice experiment"
   image: dummy.png
   description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
+  authors: H.-L. Huang, Y.-H. Luo, B. Bai, Y.-H. Deng, H.Wang, Q. Zhao*, H.-S. Zhong, Y.-Q. Nie,W.-H. Jiang, X.-L.Wang, J. Zhang, L. Li, N.-L. Liu, T. Byrnes, J. P. Dowling, C.-Y. Lu, and J.-W. Pan
   link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
+    url: https://link.aps.org/doi/10.1103/PhysRevA.100.012114
+    display:  Phys. Rev. A, vol. 100, p. 012114, Jul 2019.
   highlight: 0
   news2:
 
-- title: Creating better superconductors by periodic nanopatterning
+
+- title: "One-shot coherence distillation: Towards completing the picture"
   image: SCAUweb.jpg
   description:
     We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
   authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
+    Q. Zhao*, Y. Liu, X. Yuan, E. Chitambar, and A.Winter
   link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
+    url: 
+    display: IEEE Transactions on Information Theory, vol. 65, no. 10, pp. 6441–6453, 2019.
+  highlight: 0
 
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
+- title: "Mitigating algorithmic errors in a hamiltonian simulation"
   image: TIBB.png
   description:
     We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
   authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
+   S. Endo, Q. Zhao, Y. Li, S. Benjamin, and X. Yuan
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
+    url: https://link.aps.org/doi/10.1103/PhysRevA.99.012334
+    display: Phys. Rev. A, vol. 99, p. 012334, Jan 2019. 
   highlight: 0
 
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
+- title: "Device-independent quantum random-number generation"
   image: Mott_phase_sep.jpg
   description:
     We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
   authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
+   Y. Liu, Q. Zhao, M.-H. Li, J.-Y. Guan, Y. Zhang, B. Bai,W. Zhang,W.-Z. Liu, C.Wu, X. Yuan, H. Li, W. J. Munro, Z.Wang, L. You, J. Zhang, X. Ma, J. Fan, Q. Zhang, and J.-W. Pan
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
+    url: 
+    display: Nature, vol. 562, no. 7728, p. 548, 2018.
+  highlight: 0
 
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
+
+- title: "Test of local realism into the past without detection and locality loopholes"
   image: Pub_FP.png
   description:
     Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
   authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
+    M.-H. Li, C.Wu, Y. Zhang,W.-Z. Liu, B. Bai, Y. Liu,W. Zhang, Q. Zhao, H. Li, Z.Wang, L. You, W. J.
+Munro, J. Yin, J. Zhang, C.-Z. Peng, X. Ma, Q. Zhang, J. Fan, and J.-W. Pan
   link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
+    url: https://link.aps.org/doi/10.1103/PhysRevLett.121.080404
+    display:  Phys. Rev. Lett., vol. 121, p. 080404, Aug 2018. 
+  highlight: 0
   news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
+ #news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
 
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
+- title: "Entanglement structure: Entanglement partitioning in multipartite systems and its experimental detection using optimizable witnesses"
   image: dummy.png
   description: ""
   authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
+   H. Lu, Q. Zhao (Co-first author), Z.-D. Li, X.-F. Yin, X. Yuan, J.-C. Hung, L.-K. Chen, L. Li, N.-L. Liu,
+C.-Z. Peng, Y.-C. Liang, X. Ma, Y.-A. Chen, and J.-W. Pan
   link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
+    url: https://link.aps.org/doi/10.1103/PhysRevX.8.021072
+    display: Phys. Rev. X, vol. 8, p. 021072, Jun 2018.
   highlight: 0
   news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
   news2:
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
+- title: "Quantum coherence via conditional entropy"
   image: Pub_CeCoIn5.png
   description:
     The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
   authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
+    Y. Liu, Q. Zhao (Co-first author), and X. Yuan
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013)
-  highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
+    url: http://stacks.iop.org/1751-8121/51/i=41/a=414018
+    display: Journal of Physics A: Mathematical and Theoretical, vol. 51, no. 41, p. 414018, 2018.
+  highlight: 0
 
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
+
+- title: "One-shot coherence dilution"
   image: Pub_327.png
   description:
     Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
   authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
+    Q. Zhao, Y. Liu, X. Yuan, E. Chitambar, and X. Ma
   link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013)
-  highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
+    url: https://link.aps.org/doi/10.1103/PhysRevLett.120.070403
+    display: Phys. Rev. Lett., vol. 120, p. 070403, Feb 2018. 
+  highlight: 0
+  #news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
 
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
+- title: "High-speed device-independent quantum random number generation without a detection loophole"
   image: Pub_nemat2b.png
   description:
     We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
   authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1
+    Y. Liu, X. Yuan, M.-H. Li, W. Zhang, Q. Zhao, J. Zhong, Y. Cao, Y.-H. Li, L.-K. Chen, H. Li, T. Peng, Y.-A.
+Chen, C.-Z. Peng, S.-C. Shi, Z.Wang, L. You, X. Ma, J. Fan, Q. Zhang, and J.-W. Pan
+  highlight: 0
   link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
+    url: https://link.aps.org/doi/10.1103/PhysRevLett.120.010503
+    display: Phys. Rev. Lett., vol. 120, p. 010503, Jan 2018.
+ # news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
 
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
+- title: "Polynomial measure of coherence"
   image: Pub_LiFeAs.png
   description:
     In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
   authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
+    Y. Zhou, Q. Zhao*, X. Yuan, and X. Ma
   link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
-  highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
+    url: http://stacks.iop.org/1367-2630/19/i=12/a=123033
+    display: New Journal of Physics, vol. 19, no. 12, p. 123033, 2017.
+  highlight: 0
+ # news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
 
 - title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
   image: dummy.png
