@@ -280,67 +280,96 @@ Chen, C.-Z. Peng, S.-C. Shi, Z.Wang, L. You, X. Ma, J. Fan, Q. Zhang, and J.-W. 
   highlight: 0
  # news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
 
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
+
+- title: "Experimental blind quantum computing for a classical client"
   image: dummy.png
   description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
+  authors: H.-L. Huang, Q. Zhao, X. Ma, C. Liu, Z.-E. Su, X.-L.Wang, L. Li, N.-L. Liu, B. C. Sanders, C.-Y. Lu, and J.-W. Pan
   link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
+    url: https://link.aps.org/doi/10.1103/PhysRevLett.119.050503
+    display:  Phys. Rev. Lett., vol. 119, p.050503, Aug 2017. 
   highlight: 0
   news2:
 
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
+- title: "Experimental measurement-device-independent quantum digital signatures over a metropolitan network"
   image: Pub_nemat1.png
   description:
     We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
   authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+    H.-L. Yin,W.-L.Wang, Y.-L. Tang, Q. Zhao, H. Liu, X.-X. Sun,W.-J. Zhang, H. Li, I. V. Puthoor, L.-X. You, E. Andersson, Z. Wang, Y. Liu, X. Jiang, X. Ma, Q. Zhang, M. Curty, T.-Y. Chen, and J.-W. Pan
   link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010)
-  highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+    url: https://link.aps.org/doi/10.1103/PhysRevA.95.042338
+    display: Phys. Rev. A, vol. 95, p. 042338, Apr 2017.
+  highlight: 0
+ # news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
+  #news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
 
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
+- title: "Entanglement swapping with independent sources over an optical-fiber network"
   image: Pub_hBN.png
   description:
     QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
+  authors: Q.-C. Sun, Y.-L. Mao, Y.-F. Jiang, Q. Zhao, S.-J. Chen,W. Zhang,W.-J. Zhang, X. Jiang, T.-Y. Chen, L.-X.
+You, L. Li, Y.-D. Huang, X.-F. Chen, Z.Wang, X. Ma, Q. Zhang, and J.-W. Pan
   link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
+    url: http://link.aps.org/doi/10.1103/PhysRevA.95.032306
+    display: Phys. Rev. A, vol. 95, p. 032306, Mar 2017.
   highlight: 0
 
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
+- title: "Improved key-rate bounds for practical decoy-state quantum-key-distribution systems"
   image: Pub_hBN.png
   description:
     We determine the Fermi surface of Sr327.
   authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
+   Z. Zhang, Q. Zhao, M. Razavi, and X. Ma
   link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
+    url: http://link.aps.org/doi/10.1103/PhysRevA.95.012333
+    display: Phys. Rev. A, vol. 95, p. 012333, Jan 2017.
   highlight: 0
-
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
+  
+  
+- title: "Efficient measurement-device-independent detection of multipartite entanglement structure"
   image: Pub_hBN.png
   description:
     Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
   authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
+   Q. Zhao, X. Yuan, and X. Ma
   link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
+    url: http://link.aps.org/doi/10.1103/PhysRevA.94.012343
+    display: Phys. Rev. A, vol. 94, p. 012343, Jul 2016.
+  highlight: 0
 
-- title: Photoelectron Diffraction for a Look inside Nanostructures
+- title: "Performance of device-independent quantum key distribution"
   image: dummy.png
   description: ""
   authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+   Z. Cao, Q. Zhao, and X. Ma
   link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
+    url: https://link.aps.org/doi/10.1103/PhysRevA.94.012319
+    display: Phys. Rev. A, vol. 94, p. 012319, Jul 2016. 
   highlight: 0
+  
+  
+  - title: "Measurement-device-independent quantum key distribution over untrustful metropolitan network"
+  image: Pub_hBN.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+  Y.-L. Tang, H.-L. Yin, Q. Zhao, H. Liu, X.-X. Sun, M.-Q. Huang,W.-J. Zhang, S.-J. Chen, L. Zhang, L.-X.
+You, Z.Wang, Y. Liu, C.-Y. Lu, X. Jiang, X. Ma, Q. Zhang, T.-Y. Chen, and J.-W. Pan
+  link:
+    url: https://link.aps.org/doi/10.1103/PhysRevX.6.011024
+    display: Phys. Rev. X, vol. 6, p. 011024, Mar 2016.
+  highlight: 0
+
+- title: "Clauser-horne bell test with imperfect random inputs"
+  image: dummy.png
+  description: ""
+  authors:
+X. Yuan, Q. Zhao, and X. Ma
+  link:
+    url: http://link.aps.org/doi/10.1103/PhysRevA.92.022107
+    display: Phys. Rev. A, vol. 92, p. 022107, Aug 2015. 
+  highlight: 0
+  
+  
+  
