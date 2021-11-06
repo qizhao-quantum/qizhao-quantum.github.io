@@ -18,65 +18,67 @@
     display:  Proceedings of the National Academy of Sciences, vol. 118, no. 36, 2021. 
   highlight: 0
   news2: #See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
-
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
+  
+- title: “Quantum simulation with hybrid tensor networks”
   image: TiNHigh.png
   description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+  authors: X. Yuan, J. Sun, J. Liu, Q. Zhao*, and Y. Zhou
   link:
-    url: https://arxiv.org/abs/2101.08535
-    display: arXiv:2101.08535 (2021)
-  highlight: 1
+    url: https://link.aps.org/doi/10.1103/PhysRevLett.127.040501
+    display: Phys. Rev. Lett., vol. 127, p. 040501, Jul 2021.
+  highlight: 0
 
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
+- title: “Universal and operational benchmarking of quantum memories” 
   image: YSR.png
   description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
+  authors: X. Yuan, Y. Liu, Q. Zhao, B. Regula, J. Thompson, and M. Gu
   link:
-    url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
-  highlight: 1
+    url: 
+    display:  npj Quantum Information, vol. 7, no. 1, pp. 1–8, 2021.
+  highlight: 0
 
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
+- title: “Entanglement-free witnessing of quantum incompatibility in a high-dimensional system” 
   image: TBG_ARPES.png
   description:
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
+  authors: D.Wu, Q. Zhao* (Co-first author), Y.-H. Luo, H.-S. Zhong, L.-C. Peng, K. Chen, P. Xue, L. Li, N.-L. Liu, C.-Y. Lu, and J.-W. Pan
   link:
-    url: https://dx.doi.org/10.1038/s41535-020-00303-4
-    display: npj Quantum Materials 6, 7 (2021)
+    url: https://link.aps.org/doi/10.1103/PhysRevResearch.3.023017
+    display: Phys. Rev. Research, vol. 3, p. 023017, Apr 2021. 
   highlight: 0
   news2:
 
-
-- title: "Observation of flat bands in twisted bilayer graphene"
+- title: “Experimental realization of device-independent quantum randomness expansion”
   image: TBG_ARPES.png
   description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
+  authors: M.-H. Li, X. Zhang,W.-Z. Liu, S.-R. Zhao, B. Bai, Y. Liu, Q. Zhao, Y. Peng, J. Zhang, Y. Zhang, W. J. Munro, X. Ma, Q. Zhang, J. Fan, and J.-W. Pan 
   link:
-    url: https://www.nature.com/articles/s41567-020-01041-x
-    display:  Nature Physics 17, 198 (2020)
+    url: https://link.aps.org/doi/10.1103/PhysRevLett.126.050503
+    display:  Phys. Rev. Lett., vol. 126, p. 050503, Feb 2021.
   highlight: 1
   news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
 
-- title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
+- title: “Experimental exploration of five-qubit quantum error correcting code with superconducting qubits”
   image: Direct.png
-  authors: I Battisti, WO Tromp, S Riccò, RS Perry, AP Mackenzie, A Tamai, F Baumberger, MP Allan
+  authors: M. Gong, X. Yuan, S.Wang, Y. Wu, Y. Zhao, C. Zha, S. Li, Z. Zhang, Q. Zhao, Y. Liu, F. Liang, J. Lin, Y. Xu, H. Deng, H. Rong, H. Lu, S. C. Benjamin, C.-Z. Peng, X. Ma, Y.-A. Chen, X. Zhu, and J.-W. Pan
   description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
-    url: https://www.nature.com/articles/s41535-020-00292-4
-    display:  npj Quantum Materials 5, 91 (2020)
-  highlight: 1
-  news2:
-
-- title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  authors: M Leeuwenhoek, F Groenewoud, K van Oosten, T Benschop, MP Allan, S Gröblacher
-  description:
-  link:
-    url: https://www.nature.com/articles/s41378-020-00209-y
-    display:  Microsyst. Nanoeng. 6, 99 (2020)
+    url: https://doi.org/10.1093/nsr/nwab011
+    display:  National Science Review, 01 2021, nwab011. 
   highlight: 0
   news2:
+
+- title: “Measurement-device-independent entanglement witness of tripartite entangled states and its applications"
+  image: TBG_ARPES.png
+  authors: Z.-D. Li, Q. Zhao (Co-first author), R. Zhang, L.-Z. Liu, X.-F. Yin, X. Zhang, Y.-Y. Fei, K. Chen, N.-L. Liu, F. Xu, Y.-A. Chen, L. Li, and J.-W. Pan
+  description:
+  link:
+    url: https://link.aps.org/doi/10.1103/PhysRevLett.124.160503
+    display:  Phys. Rev. Lett., vol. 124, p. 160503, Apr 2020. 
+  highlight: 0
+  news2:
+
+
+
 
 - title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
   image: TBG_ARPES.png
