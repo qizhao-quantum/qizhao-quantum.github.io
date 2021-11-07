@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=VVQuTDMAAAAJ&hl=zh-CN&authuser=1).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -57,9 +57,12 @@ permalink: /publications/
 
 ## Full List of Publications
 
+{% assign ppidx = 0 %}
+
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
+{% increment ppidx %}. {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+<br/>
