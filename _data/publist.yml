@@ -351,28 +351,26 @@
     display: Phys. Rev. A, vol. 92, p. 022107, Aug 2015. 
   highlight: 0
   
-  
-  - title: "One-shot dynamical resource theory"
+- title: "One-shot dynamical resource theory"
   image: Pub_hBN.png
   description: ""
   authors: X. Yuan, P. Zeng, M. Gao, and <span class="mqq">Q. Zhao</span>
   link:
-    url: 
+    url: https://arxiv.org/abs/2012.02781
     display: ArXiv:2012.02781, 2020.
   highlight: 0
-
 
 - title: "Constructing multipartite bell inequalities from stabilizers"
   image: dummy.png
   description: ""
   authors: <span class="mqq">Q. Zhao</span> and Y. Zhou
   link:
-    url: 
+    url: https://arxiv.org/abs/2002.01843
     display: ArXiv:2002.01843, 2020.
   highlight: 0
   
-    
-  - title: "Quantifying coherenceandentanglement via simple measurements"
+   
+- title: "Quantifying coherenceandentanglement via simple measurements"
   image: Pub_hBN.png
   description: ""
   authors:  G. Smith, J. A. Smolin, X. Yuan, <span class="mqq">Q. Zhao</span>, D. Girolami, and X. Ma, 
