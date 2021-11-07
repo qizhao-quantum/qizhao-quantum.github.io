@@ -6,12 +6,10 @@ sitemap: false
 permalink: /research/
 ---
 
-## Research directions
-
-{%### Group highlights}
+## Research Directions
 
 <div class="largefont">
-(The following are our research directions.)
+The following are our research directions.
 </div>
 
 {% assign number_printed = 0 %}
@@ -75,7 +73,4 @@ permalink: /research/
 </div>
 {% endif %}
 
----
-
-
-<br />
+<br/>
