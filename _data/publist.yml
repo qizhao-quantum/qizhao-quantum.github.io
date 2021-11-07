@@ -6,7 +6,7 @@
     url: https://doi.org/10.22331/q-2021-08-31-534
     display:  Quantum, vol. 5, p.534, Aug. 2021
   highlight: 1
-  news2: abc
+  news2: 
 
 - title: "Quantum teleportation of physical qubits into logical code spaces"
   image: TBG_SL.png
@@ -21,7 +21,7 @@
 - title: "Quantum simulation with hybrid tensor networks"
   image: TiNHigh.png
   description: Here, we introduce the framework of hybrid tensor networks with building blocks consisting of measurable quantum states and classically contractable tensors, inheriting both their distinct features in efficient representation of many-body wave functions. With the example of hybrid tree tensor networks, we demonstrate efficient quantum simulation using a quantum computer whose size is significantly smaller than the one of the target system.  
-  authors: X. Yuan, J. Sun, J. Liu, <span class="mqq">Q. Zhao</span>*, and Y. Zhou
+  authors: X. Yuan, J. Sun, J. Liu, <span class="mqq">Q. Zhao</span>, and Y. Zhou
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevLett.127.040501
     display: Phys. Rev. Lett., vol. 127, p. 040501, Jul 2021.
@@ -216,13 +216,14 @@
 
 - title: "Entanglement structure: Entanglement partitioning in multipartite systems and its experimental detection using optimizable witnesses"
   image: dummy.png
-  description: ""
+  description: 
+  Here, we propose two complementary families of witnesses for the identification of such structures. They are based, respectively, on the detection of entanglement intactness and entanglement depth, each applicable to an arbitrary number of subsystems and whose evaluation requires only the implementation of solely two local measurements. Our method is also robust against noises and other imperfections, as reflected by our experimental implementation of these tools to verify the entanglement structure of five different eight-photon entangled states. In particular, we demonstrate how their entanglement structure can be precisely and systematically inferred from the experimental measurement of these witnesses. In achieving this goal, we also illustrate how the same set of data can be classically postprocessed to learn the most about the measured system.
   authors: H. Lu, <span class="mqq">Q. Zhao</span> (Co-first author), Z.-D. Li, X.-F. Yin, X. Yuan, J.-C. Hung, L.-K. Chen, L. Li, N.-L. Liu, C.-Z. Peng, Y.-C. Liang, X. Ma, Y.-A. Chen, and J.-W. Pan
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevX.8.021072
     display: Phys. Rev. X, vol. 8, p. 021072, Jun 2018.
   highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
+  news1: 
   news2:
 
 - title: "Quantum coherence via conditional entropy"
