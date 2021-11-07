@@ -8,7 +8,7 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+## Highlights
 
 (For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=VVQuTDMAAAAJ&hl=zh-CN&authuser=1).
 
@@ -51,7 +51,9 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 ## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
+<em> Xiongfeng Ma and Qi Zhao </em><br />Measurement-device-independent quantum key distribution with biasedbasis choice<br /> Patent number: ZL201621455743.9
+
+<em> Xiongfeng Ma and Qi Zhao </em><br />Quantum key distribution based on two-way classical communication <br /> Patent number: ZL201621440463.0
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
 
