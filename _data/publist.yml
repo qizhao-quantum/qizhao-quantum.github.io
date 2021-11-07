@@ -1,7 +1,7 @@
 - title: "Exploiting anticommutation in Hamiltonian simulation"
   image: TBG_SL.png
   description: Here, we theoretically explore the role of anti-commutative relation in Hamiltonian simulation. We find that, contrary to our intuition, anticommutative relations could also reduce the hardness of Hamiltonian simulation.  Specifically, Hamiltonians with mutually anti-commutative terms are easy to simulate, as what happens with ones consisting of mutually commutative terms.  Such a property is further utilized to reduce the algorithmic error or the gate complexity in the truncated Taylor series quantum algorithm for general problems.  Moreover, we propose two modified linear combinations of unitaries methods tailored for Hamiltonians with different degrees of anti-commutation. We numerically verify that the proposed methods exploiting anti-commutative relations could significantly improve the simulation accuracy of electronic Hamiltonians.
-  authors: Q. Zhao and X. Yuan
+  authors: <span class="mqq">Q. Zhao</span> and X. Yuan
   link:
     url: https://doi.org/10.22331/q-2021-08-31-534
     display:  Quantum, vol. 5, p.534, Aug. 2021
@@ -11,7 +11,7 @@
 - title: "Quantum teleportation of physical qubits into logical code spaces"
   image: TBG_SL.png
   description: Here, we introduce the framework of hybrid tensor networks with building blocks consisting of measurable quantum states and classically contractable tensors, inheriting both their distinct features in efficient representation of many-body wave functions. With the example of hybrid tree tensor networks, we demonstrate efficient quantum simulation using a quantum computer whose size is significantly smaller than the one of the target system.  
-  authors: Y.-H. Luo, M.-C. Chen, M. Erhard, H.-S. Zhong, D. Wu, H.-Y. Tang, Q. Zhao, X.-L. Wang, K. Fujii, L. Li, N.-L. Liu, K. Nemoto, W. J. Munro, C.-Y. Lu, A. Zeilinger, and J.-W. Pan,
+  authors: Y.-H. Luo, M.-C. Chen, M. Erhard, H.-S. Zhong, D. Wu, H.-Y. Tang, <span class="mqq">Q. Zhao</span>, X.-L. Wang, K. Fujii, L. Li, N.-L. Liu, K. Nemoto, W. J. Munro, C.-Y. Lu, A. Zeilinger, and J.-W. Pan,
   link:
     url: https://www.pnas.org/content/118/36/e2026250118
     display:  Proceedings of the National Academy of Sciences, vol. 118, no. 36, 2021. 
@@ -21,7 +21,7 @@
 - title: "Quantum simulation with hybrid tensor networks"
   image: TiNHigh.png
   description: Here, we introduce the framework of hybrid tensor networks with building blocks consisting of measurable quantum states and classically contractable tensors, inheriting both their distinct features in efficient representation of many-body wave functions. With the example of hybrid tree tensor networks, we demonstrate efficient quantum simulation using a quantum computer whose size is significantly smaller than the one of the target system.  
-  authors: X. Yuan, J. Sun, J. Liu, Q. Zhao*, and Y. Zhou
+  authors: X. Yuan, J. Sun, J. Liu, <span class="mqq">Q. Zhao</span>*, and Y. Zhou
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevLett.127.040501
     display: Phys. Rev. Lett., vol. 127, p. 040501, Jul 2021.
@@ -30,7 +30,7 @@
 - title: "Universal and operational benchmarking of quantum memories"
   image: YSR.png
   description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: X. Yuan, Y. Liu, Q. Zhao, B. Regula, J. Thompson, and M. Gu
+  authors: X. Yuan, Y. Liu, <span class="mqq">Q. Zhao</span>, B. Regula, J. Thompson, and M. Gu
   link:
     url: 
     display:  npj Quantum Information, vol. 7, no. 1, pp. 1–8, 2021.
@@ -39,7 +39,7 @@
 - title: "Entanglement-free witnessing of quantum incompatibility in a high-dimensional system"
   image: TBG_ARPES.png
   description:
-  authors: D.Wu, Q. Zhao* (Co-first author), Y.-H. Luo, H.-S. Zhong, L.-C. Peng, K. Chen, P. Xue, L. Li, N.-L. Liu, C.-Y. Lu, and J.-W. Pan
+  authors: D.Wu, <span class="mqq">Q. Zhao</span>* (Co-first author), Y.-H. Luo, H.-S. Zhong, L.-C. Peng, K. Chen, P. Xue, L. Li, N.-L. Liu, C.-Y. Lu, and J.-W. Pan
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevResearch.3.023017
     display: Phys. Rev. Research, vol. 3, p. 023017, Apr 2021. 
@@ -49,7 +49,7 @@
 - title: "Experimental realization of device-independent quantum randomness expansion"
   image: TBG_ARPES.png
   description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M.-H. Li, X. Zhang,W.-Z. Liu, S.-R. Zhao, B. Bai, Y. Liu, Q. Zhao, Y. Peng, J. Zhang, Y. Zhang, W. J. Munro, X. Ma, Q. Zhang, J. Fan, and J.-W. Pan 
+  authors: M.-H. Li, X. Zhang,W.-Z. Liu, S.-R. Zhao, B. Bai, Y. Liu, <span class="mqq">Q. Zhao</span>, Y. Peng, J. Zhang, Y. Zhang, W. J. Munro, X. Ma, Q. Zhang, J. Fan, and J.-W. Pan 
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevLett.126.050503
     display:  Phys. Rev. Lett., vol. 126, p. 050503, Feb 2021.
@@ -58,7 +58,7 @@
 
 - title: "Experimental exploration of five-qubit quantum error correcting code with superconducting qubits"
   image: Direct.png
-  authors: M. Gong, X. Yuan, S.Wang, Y. Wu, Y. Zhao, C. Zha, S. Li, Z. Zhang, Q. Zhao, Y. Liu, F. Liang, J. Lin, Y. Xu, H. Deng, H. Rong, H. Lu, S. C. Benjamin, C.-Z. Peng, X. Ma, Y.-A. Chen, X. Zhu, and J.-W. Pan
+  authors: M. Gong, X. Yuan, S.Wang, Y. Wu, Y. Zhao, C. Zha, S. Li, Z. Zhang, <span class="mqq">Q. Zhao</span>, Y. Liu, F. Liang, J. Lin, Y. Xu, H. Deng, H. Rong, H. Lu, S. C. Benjamin, C.-Z. Peng, X. Ma, Y.-A. Chen, X. Zhu, and J.-W. Pan
   description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
     url: https://doi.org/10.1093/nsr/nwab011
@@ -68,7 +68,7 @@
 
 - title: "Measurement-device-independent entanglement witness of tripartite entangled states and its applications"
   image: TBG_ARPES.png
-  authors: Z.-D. Li, Q. Zhao (Co-first author), R. Zhang, L.-Z. Liu, X.-F. Yin, X. Zhang, Y.-Y. Fei, K. Chen, N.-L. Liu, F. Xu, Y.-A. Chen, L. Li, and J.-W. Pan
+  authors: Z.-D. Li, <span class="mqq">Q. Zhao</span> (Co-first author), R. Zhang, L.-Z. Liu, X.-F. Yin, X. Zhang, Y.-Y. Fei, K. Chen, N.-L. Liu, F. Xu, Y.-A. Chen, L. Li, and J.-W. Pan
   description: Here, for the first time, we demonstrate MDIEW for multipartite entangled states. We experimentally detect the genuine entanglement and the entanglement structure of a tripartite entangled state based on an eight-photon interferometry. Furthermore, with the verified multipartite entangled state, we demonstrate quantum randomness generation and open-destination quantum key distribution in an measurement-device-independent manner.
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevLett.124.160503
@@ -80,7 +80,7 @@
 - title: "Randomness expansion secured by quantum contextuality"
   image: TBG_ARPES.png
   description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M. Um, Q. Zhao (Co-first author), J. Zhang, P.Wang, Y.Wang, M. Qiao, H. Zhou, X. Ma, and K. Kim
+  authors: M. Um, <span class="mqq">Q. Zhao</span> (Co-first author), J. Zhang, P.Wang, Y.Wang, M. Qiao, H. Zhou, X. Ma, and K. Kim
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevApplied.13.034077
     display:  Phys. Rev. Applied, vol. 13, p. 034077, Mar 2020. 
@@ -90,7 +90,7 @@
 - title: "Simultaneous certification of entangled states and measurements in bounded dimensional semiquantum games"
   image: STS_news.png
   description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: X. Zhang and Q. Zhao*
+  authors: X. Zhang and <span class="mqq">Q. Zhao</span>*
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevResearch.2.033400
     display:  Phys. Rev. Research, vol. 2, p. 033400, Sep 2020.
@@ -100,7 +100,7 @@
 - title: "High-threshold code for modular hardware with asymmetric noise"
   image: SmartPub.png
   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: X. Xu, Q. Zhao, X. Yuan, and S. C. Benjamin
+  authors: X. Xu, <span class="mqq">Q. Zhao</span>, X. Yuan, and S. C. Benjamin
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevApplied.12.064006
     display: Phys. Rev. Applied, vol. 12, p. 064006, Dec 2019.
@@ -110,7 +110,7 @@
 - title: "Theory of variational quantum simulation"
   image: PbSpub.png
   description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: X. Yuan, S. Endo, Q. Zhao, Y. Li, and S. C. Benjamin
+  authors: X. Yuan, S. Endo, <span class="mqq">Q. Zhao</span>, Y. Li, and S. C. Benjamin
   link:
     url: https://doi.org/10.22331/q-2019-10-07-191
     display:  Quantum, vol. 3, p. 191, Oct. 2019. [Online]. 
@@ -120,7 +120,7 @@
 - title: "One-shot coherence distillation with catalysts"
   image: DomePub.png
   description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: S. Chen, X. Zhang, Y. Zhou, and Q. Zhao*
+  authors: S. Chen, X. Zhang, Y. Zhou, and <span class="mqq">Q. Zhao</span>*
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevA.100.042323
     display:  Phys. Rev. A, vol. 100, p. 042323, Oct 2019. 
@@ -131,7 +131,7 @@
 - title: "Detecting multipartite entanglement structure with minimal resources"
   image: Pub_BCl.png
   description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: Y. Zhou, Q. Zhao, X. Yuan, and X. Ma
+  authors: Y. Zhou, <span class="mqq">Q. Zhao</span>, X. Yuan, and X. Ma
   link:
     url: https://doi.org/10.1038/s41534-019-0200-9
     display:  npj Quantum Information, vol. 5, p. 83, 2019. 
@@ -141,7 +141,7 @@
 - title: "Quantum coherence and intrinsic randomness"
   image: Fano.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: X. Yuan, Q. Zhao, D. Girolami, and X. Ma
+  authors: X. Yuan, <span class="mqq">Q. Zhao</span>, D. Girolami, and X. Ma
   link:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/qute.201900053
     display:  Quantum Technologies, vol. 0, no. 0, p. 1900053. 
@@ -151,7 +151,7 @@
 - title: "Efficient and robust detection of multipartite greenberger-horne-zeilinger-like states"
   image: dummy.png
   description: ""
-  authors: Q. Zhao, G.Wang, X. Yuan, and X. Ma
+  authors: <span class="mqq">Q. Zhao</span>, G.Wang, X. Yuan, and X. Ma
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevA.99.052349
     display:  Phys. Rev. A, vol. 99, p. 052349, May 2019. 
@@ -161,7 +161,7 @@
 - title:  "Compatibility of causal hidden-variable theories with a delayed-choice experiment"
   image: dummy.png
   description: ""
-  authors: H.-L. Huang, Y.-H. Luo, B. Bai, Y.-H. Deng, H.Wang, Q. Zhao*, H.-S. Zhong, Y.-Q. Nie,W.-H. Jiang, X.-L.Wang, J. Zhang, L. Li, N.-L. Liu, T. Byrnes, J. P. Dowling, C.-Y. Lu, and J.-W. Pan
+  authors: H.-L. Huang, Y.-H. Luo, B. Bai, Y.-H. Deng, H.Wang, <span class="mqq">Q. Zhao</span>*, H.-S. Zhong, Y.-Q. Nie,W.-H. Jiang, X.-L.Wang, J. Zhang, L. Li, N.-L. Liu, T. Byrnes, J. P. Dowling, C.-Y. Lu, and J.-W. Pan
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevA.100.012114
     display:  Phys. Rev. A, vol. 100, p. 012114, Jul 2019.
@@ -174,7 +174,7 @@
   description:
     We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
   authors:
-    Q. Zhao*, Y. Liu, X. Yuan, E. Chitambar, and A.Winter
+    <span class="mqq">Q. Zhao</span>*, Y. Liu, X. Yuan, E. Chitambar, and A.Winter
   link:
     url: 
     display: IEEE Transactions on Information Theory, vol. 65, no. 10, pp. 6441–6453, 2019.
@@ -185,7 +185,7 @@
   description:
     We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
   authors:
-   S. Endo, Q. Zhao, Y. Li, S. Benjamin, and X. Yuan
+   S. Endo, <span class="mqq">Q. Zhao</span>, Y. Li, S. Benjamin, and X. Yuan
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevA.99.012334
     display: Phys. Rev. A, vol. 99, p. 012334, Jan 2019. 
@@ -196,7 +196,7 @@
   description:
     We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
   authors:
-   Y. Liu, Q. Zhao, M.-H. Li, J.-Y. Guan, Y. Zhang, B. Bai,W. Zhang,W.-Z. Liu, C.Wu, X. Yuan, H. Li, W. J. Munro, Z.Wang, L. You, J. Zhang, X. Ma, J. Fan, Q. Zhang, and J.-W. Pan
+   Y. Liu, <span class="mqq">Q. Zhao</span>, M.-H. Li, J.-Y. Guan, Y. Zhang, B. Bai,W. Zhang,W.-Z. Liu, C.Wu, X. Yuan, H. Li, W. J. Munro, Z.Wang, L. You, J. Zhang, X. Ma, J. Fan, Q. Zhang, and J.-W. Pan
   link:
     url: 
     display: Nature, vol. 562, no. 7728, p. 548, 2018.
@@ -206,7 +206,7 @@
 - title: "Test of local realism into the past without detection and locality loopholes"
   image: Pub_FP.png
   description: Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-  authors: M.-H. Li, C.Wu, Y. Zhang,W.-Z. Liu, B. Bai, Y. Liu,W. Zhang, Q. Zhao, H. Li, Z.Wang, L. You, W. J.  Munro, J. Yin, J. Zhang, C.-Z. Peng, X. Ma, Q. Zhang, J. Fan, and J.-W. Pan 
+  authors: M.-H. Li, C.Wu, Y. Zhang,W.-Z. Liu, B. Bai, Y. Liu,W. Zhang, <span class="mqq">Q. Zhao</span>, H. Li, Z.Wang, L. You, W. J.  Munro, J. Yin, J. Zhang, C.-Z. Peng, X. Ma, Q. Zhang, J. Fan, and J.-W. Pan 
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevLett.121.080404
     display:  Phys. Rev. Lett., vol. 121, p. 080404, Aug 2018. 
@@ -217,7 +217,7 @@
 - title: "Entanglement structure: Entanglement partitioning in multipartite systems and its experimental detection using optimizable witnesses"
   image: dummy.png
   description: ""
-  authors: H. Lu, Q. Zhao (Co-first author), Z.-D. Li, X.-F. Yin, X. Yuan, J.-C. Hung, L.-K. Chen, L. Li, N.-L. Liu, C.-Z. Peng, Y.-C. Liang, X. Ma, Y.-A. Chen, and J.-W. Pan
+  authors: H. Lu, <span class="mqq">Q. Zhao</span> (Co-first author), Z.-D. Li, X.-F. Yin, X. Yuan, J.-C. Hung, L.-K. Chen, L. Li, N.-L. Liu, C.-Z. Peng, Y.-C. Liang, X. Ma, Y.-A. Chen, and J.-W. Pan
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevX.8.021072
     display: Phys. Rev. X, vol. 8, p. 021072, Jun 2018.
@@ -230,7 +230,7 @@
   description:
     The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
   authors:
-    Y. Liu, Q. Zhao (Co-first author), and X. Yuan
+    Y. Liu, <span class="mqq">Q. Zhao</span> (Co-first author), and X. Yuan
   link:
     url: http://stacks.iop.org/1751-8121/51/i=41/a=414018
     display: Journal of Physics A Mathematical and Theoretical, vol. 51, no. 41, p. 414018, 2018.
@@ -242,7 +242,7 @@
   description:
     Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
   authors:
-    Q. Zhao, Y. Liu, X. Yuan, E. Chitambar, and X. Ma
+    <span class="mqq">Q. Zhao</span>, Y. Liu, X. Yuan, E. Chitambar, and X. Ma
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevLett.120.070403
     display: Phys. Rev. Lett., vol. 120, p. 070403, Feb 2018. 
@@ -253,7 +253,7 @@
   image: Pub_nemat2b.png
   description:
     We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors: Y. Liu, X. Yuan, M.-H. Li, W. Zhang, Q. Zhao, J. Zhong, Y. Cao, Y.-H. Li, L.-K. Chen, H. Li, T. Peng, Y.-A.  Chen, C.-Z. Peng, S.-C. Shi, Z.Wang, L. You, X. Ma, J. Fan, Q. Zhang, and J.-W. Pan
+  authors: Y. Liu, X. Yuan, M.-H. Li, W. Zhang, <span class="mqq">Q. Zhao</span>, J. Zhong, Y. Cao, Y.-H. Li, L.-K. Chen, H. Li, T. Peng, Y.-A.  Chen, C.-Z. Peng, S.-C. Shi, Z.Wang, L. You, X. Ma, J. Fan, Q. Zhang, and J.-W. Pan
   highlight: 0
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevLett.120.010503
@@ -265,7 +265,7 @@
   description:
     In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
   authors:
-    Y. Zhou, Q. Zhao*, X. Yuan, and X. Ma
+    Y. Zhou, <span class="mqq">Q. Zhao</span>*, X. Yuan, and X. Ma
   link:
     url: http://stacks.iop.org/1367-2630/19/i=12/a=123033
     display: New Journal of Physics, vol. 19, no. 12, p. 123033, 2017.
@@ -276,7 +276,7 @@
 - title: "Experimental blind quantum computing for a classical client"
   image: dummy.png
   description: ""
-  authors: H.-L. Huang, Q. Zhao, X. Ma, C. Liu, Z.-E. Su, X.-L.Wang, L. Li, N.-L. Liu, B. C. Sanders, C.-Y. Lu, and J.-W. Pan
+  authors: H.-L. Huang, <span class="mqq">Q. Zhao</span>, X. Ma, C. Liu, Z.-E. Su, X.-L.Wang, L. Li, N.-L. Liu, B. C. Sanders, C.-Y. Lu, and J.-W. Pan
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevLett.119.050503
     display:  Phys. Rev. Lett., vol. 119, p.050503, Aug 2017. 
@@ -288,7 +288,7 @@
   description:
     We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
   authors:
-    H.-L. Yin,W.-L.Wang, Y.-L. Tang, Q. Zhao, H. Liu, X.-X. Sun,W.-J. Zhang, H. Li, I. V. Puthoor, L.-X. You, E. Andersson, Z. Wang, Y. Liu, X. Jiang, X. Ma, Q. Zhang, M. Curty, T.-Y. Chen, and J.-W. Pan
+    H.-L. Yin,W.-L.Wang, Y.-L. Tang, <span class="mqq">Q. Zhao</span>, H. Liu, X.-X. Sun,W.-J. Zhang, H. Li, I. V. Puthoor, L.-X. You, E. Andersson, Z. Wang, Y. Liu, X. Jiang, X. Ma, Q. Zhang, M. Curty, T.-Y. Chen, and J.-W. Pan
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevA.95.042338
     display: Phys. Rev. A, vol. 95, p. 042338, Apr 2017.
@@ -300,7 +300,7 @@
   image: Pub_hBN.png
   description:
     QPI in Sr327.
-  authors: Q.-C. Sun, Y.-L. Mao, Y.-F. Jiang, Q. Zhao, S.-J. Chen,W. Zhang,W.-J. Zhang, X. Jiang, T.-Y. Chen, L.-X.  You, L. Li, Y.-D. Huang, X.-F. Chen, Z.Wang, X. Ma, Q. Zhang, and J.-W. Pan
+  authors: Q.-C. Sun, Y.-L. Mao, Y.-F. Jiang, <span class="mqq">Q. Zhao</span>, S.-J. Chen,W. Zhang,W.-J. Zhang, X. Jiang, T.-Y. Chen, L.-X.  You, L. Li, Y.-D. Huang, X.-F. Chen, Z.Wang, X. Ma, Q. Zhang, and J.-W. Pan
   link:
     url: http://link.aps.org/doi/10.1103/PhysRevA.95.032306
     display: Phys. Rev. A, vol. 95, p. 032306, Mar 2017.
@@ -311,7 +311,7 @@
   description:
     We determine the Fermi surface of Sr327.
   authors:
-   Z. Zhang, Q. Zhao, M. Razavi, and X. Ma
+   Z. Zhang, <span class="mqq">Q. Zhao</span>, M. Razavi, and X. Ma
   link:
     url: http://link.aps.org/doi/10.1103/PhysRevA.95.012333
     display: Phys. Rev. A, vol. 95, p. 012333, Jan 2017.
@@ -322,7 +322,7 @@
   image: Pub_hBN.png
   description:
     Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors: Q. Zhao, X. Yuan, and X. Ma
+  authors: <span class="mqq">Q. Zhao</span>, X. Yuan, and X. Ma
   link:
     url: http://link.aps.org/doi/10.1103/PhysRevA.94.012343
     display: Phys. Rev. A, vol. 94, p. 012343, Jul 2016.
@@ -331,7 +331,7 @@
 - title: "Performance of device-independent quantum key distribution"
   image: dummy.png
   description: "a"
-  authors: Z. Cao, Q. Zhao, and X. Ma
+  authors: Z. Cao, <span class="mqq">Q. Zhao</span>, and X. Ma
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevA.94.012319
     display: Phys. Rev. A, vol. 94, p. 012319, Jul 2016. 
@@ -341,7 +341,7 @@
   image: Pub_hBN.png
   description:
     Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors: Y.-L. Tang, H.-L. Yin, Q. Zhao, H. Liu, X.-X. Sun, M.-Q. Huang,W.-J. Zhang, S.-J. Chen, L. Zhang, L.-X.  You, Z.Wang, Y. Liu, C.-Y. Lu, X. Jiang, X. Ma, Q. Zhang, T.-Y. Chen, and J.-W. Pan
+  authors: Y.-L. Tang, H.-L. Yin, <span class="mqq">Q. Zhao</span>, H. Liu, X.-X. Sun, M.-Q. Huang,W.-J. Zhang, S.-J. Chen, L. Zhang, L.-X.  You, Z.Wang, Y. Liu, C.-Y. Lu, X. Jiang, X. Ma, Q. Zhang, T.-Y. Chen, and J.-W. Pan
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevX.6.011024
     display: Phys. Rev. X, vol. 6, p. 011024, Mar 2016.
@@ -350,7 +350,7 @@
 - title: "Clauser-horne bell test with imperfect random inputs"
   image: dummy.png
   description: ""
-  authors: X. Yuan, Q. Zhao, and X. Ma
+  authors: X. Yuan, <span class="mqq">Q. Zhao</span>, and X. Ma
   link:
     url: http://link.aps.org/doi/10.1103/PhysRevA.92.022107
     display: Phys. Rev. A, vol. 92, p. 022107, Aug 2015. 
