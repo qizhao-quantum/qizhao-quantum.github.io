@@ -1,28 +1,26 @@
-- name: Internet Security & Privacy and Architectural Innovations
+- name: Hamiltonian simulation
   image: internet_security.png
-  number_desc: 3
-  desc1: "Readily deployable and proactive DDoS prevention systems: CCS’16, ToN’18, TIFS’18, U.S. National NSF I-Corps Award."
-  desc2: "Privacy Preserving access control for Tor Networks: ICNP’17. Acknowledge by the Tor Project and Cloudflare Inc."
-  desc3: "Internet Source and Path Authentication: IWQoS’18."
+  number_desc: 2
+  desc1: "Digital Hamiltonian simulation: "
+  desc2: "Variational quantum simulation: "
+  #desc3: "Internet Source and Path Authentication: IWQoS’18."
 
-- name: Blockchain Infrastructures and Web3.0 Initiatives
+- name: Quantum resource theory
   image: blockchains.png
   number_desc: 2
-  desc1: "Pioneering work in Blockchain Interoperability and Web3.0 definitions: CCS’19, TDSC’21, Invited Talks @ IEEE Blockchain Standards, Ant Group, IC3, etc."
-  desc2: "Blockchain-empowered application innovations: IEEE Network’20, ICDCS’19."
+  desc1: "Coherence resource theory: "
+  desc2: "Dynimical resource: "
 
-- name: Datacenter Networking and Infrastructures
+- name: Entanglement detection
   image: datacenter_networking.png
   number_desc: 3
-  desc1: "World’s first production-grade SDN control-plane: NDSI’21 (Special acknowledgement), Google Feats of Engineering Award for High Network Availability."
-  desc2: "World’s first production-grade automated management plane: leading author and under review, Google Feats of Engineering Award for WAN Capacity Augment."
-  desc3: "Managing multi-tenancy and routing control in public Cloud: INFOCOM’18, TPDS’19, TPDS’21, One U.S. Patent, Product adoption by NEC, Acknowledgement by Huawei and Google."
+  desc1: "Entanglement structure detection: "
+  desc2: "Measurement device independent entanglement structure detection"
+  desc3: "Efficient entanglement detection."
 
-- name: Systems and ML Security
+- name: Self-testng quantum information
   image: system_security.png
-  number_desc: 5
-  desc1: "Vulnerability discovery for large-scale RPC systems: ASIACCS’21, Adoption by Ant Group."
-  desc2: "Advanced Persistent Threat: CCS’19, Security'22"
-  desc3: "Adversarial attack against Graph Neural Networks: CCS’21."
-  desc4: "Searchable Symmetric Encryption: TIFS’20."
-  desc5: "IoT Security: Security’22."
+  number_desc: 3
+  desc1: "(Semi) Device independent randomness: "
+  desc2: "Self-testing: "
+  desc3: "Bell nonlocality:"
