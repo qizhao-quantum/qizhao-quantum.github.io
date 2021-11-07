@@ -239,8 +239,7 @@
 
 - title: "One-shot coherence dilution"
   image: Pub_327.png
-  description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
+  description: This Letter establishes the one-shot theory of coherence dilution, which involves converting maximally coherent states into an arbitrary quantum state using maximally incoherent operations, dephasing-covariant incoherent operations, incoherent operations, or strictly incoherent operations. We introduce several coherence monotones with concrete operational interpretations that estimate the one-shot coherence cost—the minimum amount of maximally coherent states needed for faithful coherence dilution. Furthermore, we derive the asymptotic coherence dilution results with maximally incoherent operations, incoherent operations, and strictly incoherent operations as special cases. Our result can be applied in the analyses of quantum information processing tasks that exploit coherence as resources, such as quantum key distribution and random number generation.
   authors:
     <span class="mqq">Q. Zhao</span>, Y. Liu, X. Yuan, E. Chitambar, and X. Ma
   link:
