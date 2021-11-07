@@ -15,7 +15,7 @@
   link:
     url: https://www.pnas.org/content/118/36/e2026250118
     display:  Proceedings of the National Academy of Sciences, vol. 118, no. 36, 2021. 
-  highlight: 1
+  highlight: 0
   news2: #See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
   
 - title: "Quantum simulation with hybrid tensor networks"
@@ -53,7 +53,7 @@
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevLett.126.050503
     display:  Phys. Rev. Lett., vol. 126, p. 050503, Feb 2021.
-  highlight: 1
+  highlight: 0
   news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
 
 - title: "Experimental exploration of five-qubit quantum error correcting code with superconducting qubits"
@@ -178,7 +178,7 @@
   link:
     url: 
     display: IEEE Transactions on Information Theory, vol. 65, no. 10, pp. 6441–6453, 2019.
-  highlight: 0
+  highlight: 1
 
 - title: "Mitigating algorithmic errors in a hamiltonian simulation"
   image: TIBB.png
@@ -200,7 +200,7 @@
   link:
     url: 
     display: Nature, vol. 562, no. 7728, p. 548, 2018.
-  highlight: 0
+  highlight: 1
 
 
 - title: "Test of local realism into the past without detection and locality loopholes"
@@ -221,7 +221,7 @@
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevX.8.021072
     display: Phys. Rev. X, vol. 8, p. 021072, Jun 2018.
-  highlight: 0
+  highlight: 1
   news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
   news2:
 
@@ -246,7 +246,7 @@
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevLett.120.070403
     display: Phys. Rev. Lett., vol. 120, p. 070403, Feb 2018. 
-  highlight: 0
+  highlight: 1
   #news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
 
 - title: "High-speed device-independent quantum random number generation without a detection loophole"
@@ -280,7 +280,7 @@
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevLett.119.050503
     display:  Phys. Rev. Lett., vol. 119, p.050503, Aug 2017. 
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Experimental measurement-device-independent quantum digital signatures over a metropolitan network"
