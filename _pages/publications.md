@@ -55,7 +55,7 @@ permalink: /publications/
 
 <em> Xiongfeng Ma and Qi Zhao </em><br />Quantum key distribution based on two-way classical communication <br /> Patent number: ZL201621440463.0
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+<em> Xiongfeng Ma and Qi Zhao </em><br />Quantum key distribution data postprocessing for detector efficiencymismatc <br /> Patent number: CN105049200A
 
 ## Full List of Publications
 
