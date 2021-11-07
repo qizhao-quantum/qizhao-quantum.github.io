@@ -353,4 +353,35 @@
   highlight: 0
   
   
+  - title: "One-shot dynamical resource theory"
+  image: Pub_hBN.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors: X. Yuan, P. Zeng, M. Gao, and <span class="mqq">Q. Zhao</span>
+  link:
+    url: 
+    display: ArXiv:2012.02781, 2020.
+  highlight: 0
+
+
+- title: "Constructing multipartite bell inequalities from stabilizers"
+  image: dummy.png
+  description: ""
+  authors: <span class="mqq">Q. Zhao</span> and Y. Zhou
+  link:
+    url: 
+    display: ArXiv:2002.01843, 2020.
+  highlight: 0
+  
+    
+  - title: "Quantifying coherenceandentanglement via simple measurements"
+  image: Pub_hBN.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:  G. Smith, J. A. Smolin, X. Yuan, <span class="mqq">Q. Zhao</span>, D. Girolami, and X. Ma, 
+  link:
+    url: 
+    display: ArXiv:1707.09928, 2017.
+  highlight: 0
+  
   
