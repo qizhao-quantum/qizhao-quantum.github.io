@@ -1,10 +1,10 @@
 - title: "Robust self-testing of multiparticle entanglement"
   image: TBG_SL.png
-  description: Here, we theoretically explore the role of anti-commutative relation in Hamiltonian simulation. We find that, contrary to our intuition, anticommutative relations could also reduce the hardness of Hamiltonian simulation.  Specifically, Hamiltonians with mutually anti-commutative terms are easy to simulate, as what happens with ones consisting of mutually commutative terms.  Such a property is further utilized to reduce the algorithmic error or the gate complexity in the truncated Taylor series quantum algorithm for general problems.  Moreover, we propose two modified linear combinations of unitaries methods tailored for Hamiltonians with different degrees of anti-commutation. We numerically verify that the proposed methods exploiting anti-commutative relations could significantly improve the simulation accuracy of electronic Hamiltonians.
+  description: Here, we demonstrate the first robust self-testing for multi-particle quantum entanglement. We prepare two examples of four-photon graph states, the Greenberger-Horne-Zeilinger (GHZ) states with a fidelity of 0.957(2) and the linear cluster states with a fidelity of 0.945(2). Based on the observed input-output statistics, we certify the genuine four-photon entanglement and further estimate their qualities with respect to realistic noise in a device-independent manner.
   authors: D. Wu, <span class="mqq">Q. Zhao</span> (Co-first author), X.-M. Gu, H.-S. Zhong, Y. Zhou, L.-C. Peng, J. Qin, Y.-H. Luo,K. Chen, L. Li, N.-L. Liu, C.-Y. Lu, and J.-W.
   link:
-    url: 
-    display:  ArXiv:2105.10298,Accepted by Physical Review Letters, 2021.
+    url: https://arxiv.org/abs/2105.10298
+    display:  ArXiv:2105.10298, accepted by Physical Review Letters, 2021.
   highlight: 1
   news2: 
 
