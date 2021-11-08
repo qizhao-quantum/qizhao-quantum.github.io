@@ -203,9 +203,8 @@
   highlight: 0
 
 - title: "Device-independent quantum random-number generation"
-  image: Mott_phase_sep.jpg
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
+  image: DIQRNG.png
+  description: Here we present DIQRNG that is secure against quantum and classical adversaries10–12. We use state-of-the-art quantum optical technology to create, modulate and detect entangled photon pairs, achieving an efficiency of more than 78 per cent from creation to detection at a distance of about 200 metres that greatly exceeds the threshold for closing the ‘detection’ loophole of the Bell test.
   authors:
    Y. Liu, <span class="mqq">Q. Zhao</span>, M.-H. Li, J.-Y. Guan, Y. Zhang, B. Bai,W. Zhang,W.-Z. Liu, C.Wu, X. Yuan, H. Li, W. J. Munro, Z.Wang, L. You, J. Zhang, X. Ma, J. Fan, Q. Zhang, and J.-W. Pan
   link:
