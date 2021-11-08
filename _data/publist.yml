@@ -11,7 +11,7 @@
 
 
 - title: "Exploiting anticommutation in Hamiltonian simulation"
-  image: TBG_SL.png
+  image: Anti.png
   description: Here, we theoretically explore the role of anti-commutative relation in Hamiltonian simulation. We find that, contrary to our intuition, anticommutative relations could also reduce the hardness of Hamiltonian simulation.  Specifically, Hamiltonians with mutually anti-commutative terms are easy to simulate, as what happens with ones consisting of mutually commutative terms.  Such a property is further utilized to reduce the algorithmic error or the gate complexity in the truncated Taylor series quantum algorithm for general problems.  Moreover, we propose two modified linear combinations of unitaries methods tailored for Hamiltonians with different degrees of anti-commutation. We numerically verify that the proposed methods exploiting anti-commutative relations could significantly improve the simulation accuracy of electronic Hamiltonians.
   authors: <span class="mqq">Q. Zhao</span> and X. Yuan
   link:
@@ -31,7 +31,7 @@
   news2: #See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
   
 - title: "Quantum simulation with hybrid tensor networks"
-  image: TiNHigh.png
+  image: tensor.png
   description: Here, we introduce the framework of hybrid tensor networks with building blocks consisting of measurable quantum states and classically contractable tensors, inheriting both their distinct features in efficient representation of many-body wave functions. With the example of hybrid tree tensor networks, we demonstrate efficient quantum simulation using a quantum computer whose size is significantly smaller than the one of the target system.  
   authors: X. Yuan, J. Sun, J. Liu, <span class="mqq">Q. Zhao</span>, and Y. Zhou
   link:
@@ -79,7 +79,7 @@
   news2:
 
 - title: "Measurement-device-independent entanglement witness of tripartite entangled states and its applications"
-  image: TBG_ARPES.png
+  image: MDIthree.png
   authors: Z.-D. Li, <span class="mqq">Q. Zhao</span> (Co-first author), R. Zhang, L.-Z. Liu, X.-F. Yin, X. Zhang, Y.-Y. Fei, K. Chen, N.-L. Liu, F. Xu, Y.-A. Chen, L. Li, and J.-W. Pan
   description: Here, for the first time, we demonstrate MDIEW for multipartite entangled states. We experimentally detect the genuine entanglement and the entanglement structure of a tripartite entangled state based on an eight-photon interferometry. Furthermore, with the verified multipartite entangled state, we demonstrate quantum randomness generation and open-destination quantum key distribution in an measurement-device-independent manner.
   link:
@@ -248,7 +248,7 @@
 
 
 - title: "One-shot coherence dilution"
-  image: Pub_327.png
+  image: dilution.png
   description: This Letter establishes the one-shot theory of coherence dilution, which involves converting maximally coherent states into an arbitrary quantum state using maximally incoherent operations, dephasing-covariant incoherent operations, incoherent operations, or strictly incoherent operations. We introduce several coherence monotones with concrete operational interpretations that estimate the one-shot coherence cost—the minimum amount of maximally coherent states needed for faithful coherence dilution. Furthermore, we derive the asymptotic coherence dilution results with maximally incoherent operations, incoherent operations, and strictly incoherent operations as special cases. Our result can be applied in the analyses of quantum information processing tasks that exploit coherence as resources, such as quantum key distribution and random number generation.
   authors:
     <span class="mqq">Q. Zhao</span>, Y. Liu, X. Yuan, E. Chitambar, and X. Ma
