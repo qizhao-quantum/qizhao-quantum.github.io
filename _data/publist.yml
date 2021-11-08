@@ -182,7 +182,7 @@
 
 
 - title: "One-shot coherence distillation: Towards completing the picture"
-  image: SCAUweb.jpg
+  image: distillIEEE.png
   description: We consider the one-shot problem of distilling pure coherence from a single instance of a given resource state. Specifically, we determine the distillable coherence with a given fidelity under incoherent operations (IO) through a generalization of the Winter-Yang protocol. We also relate the distillable coherence under strictly incoherent operations (SIO) to a constrained hypothesis testing.
   authors:
     <span class="mqq">Q. Zhao</span>*, Y. Liu, X. Yuan, E. Chitambar, and A.Winter
