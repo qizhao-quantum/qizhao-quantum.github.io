@@ -1,5 +1,5 @@
 - name: Hamiltonian simulation
-  image: internet_security.png
+  image: simulation.png
   number_desc: 2
   desc1: "Digital Hamiltonian simulation "
   desc2: "Variational quantum simulation "
