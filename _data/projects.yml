@@ -1,26 +1,26 @@
 - name: Hamiltonian simulation
   image: internet_security.png
   number_desc: 2
-  desc1: "Digital Hamiltonian simulation: "
-  desc2: "Variational quantum simulation: "
+  desc1: "Digital Hamiltonian simulation "
+  desc2: "Variational quantum simulation "
   #desc3: "Internet Source and Path Authentication: IWQoS’18."
 
 - name: Quantum resource theory
   image: blockchains.png
   number_desc: 2
-  desc1: "Coherence resource theory: "
-  desc2: "Dynimical resource: "
+  desc1: "Coherence resource theory "
+  desc2: "Dynimical resource "
 
 - name: Entanglement detection
   image: datacenter_networking.png
   number_desc: 3
-  desc1: "Entanglement structure detection: "
+  desc1: "Entanglement structure detection"
   desc2: "Measurement device independent entanglement structure detection"
-  desc3: "Efficient entanglement detection."
+  desc3: "Efficient entanglement detection"
 
 - name: Self-testng quantum information
   image: system_security.png
   number_desc: 3
-  desc1: "(Semi) Device independent randomness: "
-  desc2: "Self-testing: "
+  desc1: "(Semi) Device independent randomness "
+  desc2: "Self-testing "
   desc3: "Bell nonlocality:"
