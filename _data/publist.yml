@@ -1,11 +1,11 @@
-- title: "amiltonian simulation with random inputs”
+- title: "Hamiltonian simulation with random inputs”
   image: selftesting1.pdf
-  description:  The algorithmic error of digital quantum simulations is usually explored in terms of the spectral norm distance between the actual and ideal evolution operators. In practice, this worst-case error analysis may be unnecessarily pessimistic. To address this, we develop a theory of average-case performance of Hamiltonian simulation with random initial states. Our techniques can be used to tighten the Trotter error and reduce the gate complexity in Hamiltonian simulation tasks.
+  description: 
   authors: <span class="mqq">Q. Zhao</span>, Y. Zhou, A. F. Shaw, T. Li, and A. M. Childs.
   link:
     url: https://arxiv.org/abs/2111.04773
     display: arXiv:2111.04773, 2021, QIP 2022 talk
-  highlight: 1
+  highlight: 0
   news2: 
 
 
