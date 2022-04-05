@@ -22,7 +22,7 @@
 
 
 - title: "Robust self-testing of multiparticle entanglement"
-  image: selftesting1.pdf
+  image: self-test-prl.png
   description: Here, we demonstrate the first robust self-testing for multi-particle quantum entanglement. We prepare two examples of four-photon graph states, the Greenberger-Horne-Zeilinger (GHZ) states with a fidelity of 0.957(2) and the linear cluster states with a fidelity of 0.945(2). Based on the observed input-output statistics, we certify the genuine four-photon entanglement and further estimate their qualities with respect to realistic noise in a device-independent manner.
   authors: D. Wu, <span class="mqq">Q. Zhao</span> (Co-first author), X.-M. Gu, H.-S. Zhong, Y. Zhou, L.-C. Peng, J. Qin, Y.-H. Luo,K. Chen, L. Li, N.-L. Liu, C.-Y. Lu, and J.-W.
   link:
