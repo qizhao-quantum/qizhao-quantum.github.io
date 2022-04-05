@@ -11,12 +11,12 @@
 
 - title: "Hamiltonian simulation with random inputs"
   image: selftesting1.pdf
-  description: ssss
+  description: Here we 
   authors: <span class="mqq">Q. Zhao</span>, Y. Zhou, A. F. Shaw, T. Li, and A. M. Childs.
   link:
     url: https://arxiv.org/abs/2111.04773
     display: ArXiv:2111.04773, 2021, QIP 2022 contributed talk
-  highlight: 0
+  highlight: 1
   news2: 
 
 
