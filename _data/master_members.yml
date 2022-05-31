@@ -1,0 +1,31 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ: 4
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+#- name: Sainan Li
+#  photo: daizhang.jpeg
+#  info: Master Student, co-advised with Prof. Qi Li
+#  email: zhangdai.zedd@gmail.com
+#  number_educ: 1
+#  education1: B.E. in Computer Science and Technology, Tsinghua University (THU)
+
+- name: Xuanqi Liu
+  photo: liuxuanqi.jpeg
+  info: Master Student
+  #email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
+  number_educ: 2
+  education1: Working on ML Systems; Privacy Computing
+  education2: B.E. in Computer Science and Technology, Tsinghua University (THU)
+- name: Qi Li
+  photo: liqi.jpg
+  info: Master Student
+  #email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
+  number_educ: 2
+  education1: Working on Privacy Computing; Blockchain
+  education2: B.E. in Information Security, Beijing University of Posts and Telecommunications

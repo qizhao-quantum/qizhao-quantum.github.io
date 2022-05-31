@@ -24,7 +24,7 @@ The following are our research directions.
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit class="largefont">{{ publi.name }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ publi.image }}" class="img-responsive" width="90%" style="float:right;margin-bottom:18px;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ publi.image }}" class="img-responsive" width="90%" style="float:right;margin-bottom:18px;height:250px;" />
 
   <ul style="overflow: hidden">
 	{% if publi.number_desc == 1 %}   
