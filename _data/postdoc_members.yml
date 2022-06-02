@@ -8,42 +8,12 @@
 #  education3:
 #  education4:
 
-- name: Dai Zhang
+- name: Fei Shi
   photo: daizhang.png
-  info: Ph.D. Student, co-advised with Prof. Mingwei Xu
-  email: zhangdai [dot] zedd [at] gmail [dot] com
+  info: Postdoc, co-advised with Prof. Giulio Chiribella
+  email: shifei[at] mail [dot] ustc [dot] edu [dot] cn
   number_educ: 2
-  education1: Working on Applied ML in Distributed Systems and Networking 
-  education2: B.E. in Computer Science and Technology, Tsinghua University
+  education1: Ph.D., School of Cyber Science and Technology, University of Science and Technology of China
+  education2: Master, School of Mathematical Sciences, University of Science and Technology of China
+  education3: B.S., School of Mathematics and Information Science, Guangzhou University
 
-- name: Jiang Li
-  photo: jiangli.jpeg
-  info: Ph.D. Student, co-advised with Prof. Mingwei Xu
-  email: lijiang17 [at] mails [dot] tsinghua [dot] edu [dot] cn
-  number_educ: 2
-  education1: Working on Next-gen Network Infra; Blockchains
-  education2: B.E. in Computer Science and Technology, Beijing University of Posts and Telecommunications
-
-- name: Zhenhua Zou
-  photo: zhenhuazou.jpeg
-  info: Ph.D. Student
-  email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
-  number_educ: 2
-  education1: Working on Privacy Computing; Responsible/Trust AI
-  education2: B.E. in Computer Science and Technology, Tsinghua University
-
-- name: Jinzhu Yan
-  photo: yjz-new.jpeg
-  info: Ph.D. Student
-  #email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
-  number_educ: 2
-  education1: Working on Applied ML; Privacy Computing
-  education2: B.E. in Computer Science and Technology, Beihang University 
-
-- name: Yi He
-  photo: yihe.jpeg
-  info: Ph.D. Student, co-advised with Prof. Qi Li
-  #email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
-  number_educ: 2
-  education1: Working on Systems Security
-  education2: B.E. in Computer Science, Wuhan University 
