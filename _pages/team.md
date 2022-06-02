@@ -9,7 +9,7 @@ permalink: /team/
 ## Group Members
 
 <div class="largefont">
-The following is a subset of our rapidly growing team. We are continuously looking for new PhD students, Postdocs, and Master students to join the team [(join us)]({{ site.url }}{{ site.baseurl }}/joinus) !
+The following is a subset of our rapidly growing team. We are continuously looking for new Postdocs, and PhD students to join the team [(join us)]({{ site.url }}{{ site.baseurl }}/joinus) !
 </div>
 
 ---
