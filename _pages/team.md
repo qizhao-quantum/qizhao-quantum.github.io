@@ -213,7 +213,7 @@ The following is a subset of our rapidly growing team. We are continuously looki
 
 ---
 
-### Master Students
+### Visitors
 {% assign number_printed = 0 %}
 {% for member in site.data.master_members %}
 
