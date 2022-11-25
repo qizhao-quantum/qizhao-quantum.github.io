@@ -1,3 +1,14 @@
+- title: "Efficient and practical quantum compiler towards multi-qubit systems with deep reinforcement learning"
+  image: selftesting1.pdf
+  description: ssss
+  authors: Qiuhao Chen, Yuxuan Du, <span class="mqq">Qi Zhao</span>, Yuling Jiao, Xiliang Lu, Xingyao Wu.
+  link:
+    url: https://arxiv.org/abs/2204.06904
+    display: arXiv:2204.06904
+  highlight: 0
+  news2: 
+
+
 - title: "Closing the Locality and Detection Loopholes in Multiparticle Entanglement Self-Testing"
   image: self-test-prl.png
   description: We report the first experimental realization of multiparticle entanglement self-testing closing the locality loophole in a photonic system, and the detection loophole in a superconducting system, respectively. 
