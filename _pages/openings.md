@@ -5,15 +5,16 @@ excerpt: "Openings"
 sitemap: false
 permalink: /joinus
 ---
-## Opennings
-<div class="largefont">
-We have opennings for postdoctorial researchers working on quantum machine learning. The candidates will recevie competitive salary and will be supervised by me and Professor Dong Xu (an expert on classical machine learning). Feel free to send [[me]](./team) an email with your CV for subsequent discussions. 
-
-## Other opennings
+## Future Members
 <div class="largefont">
 We have multiple opennings for new Ph.D. students, Master students and undergraduate students to join our Group. 
 Feel free to send [[me]](./team) an email for subsequent discussions. 
 </div>
+
+### Opennings
+<div class="largefont">
+We have opennings for postdoctorial researchers working on quantum machine learning. The candidates will recevie competitive salary and will be supervised by me and Professor Dong Xu (an expert on classical machine learning). Feel free to send [[me]](./team) an email with your CV for subsequent discussions. 
+
 
 ### A letter to future members: 
 
