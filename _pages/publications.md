@@ -50,13 +50,6 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-## Patents
-<em> Xiongfeng Ma and Qi Zhao </em><br />Measurement-device-independent quantum key distribution with biasedbasis choice<br /> Patent number: ZL201621455743.9
-
-<em> Xiongfeng Ma and Qi Zhao </em><br />Quantum key distribution based on two-way classical communication <br /> Patent number: ZL201621440463.0
-
-<em> Xiongfeng Ma and Qi Zhao </em><br />Quantum key distribution data postprocessing for detector efficiencymismatc <br /> Patent number: CN105049200A
-
 ## Full List of Publications
 
 {% assign ppidx = 0 %}
@@ -68,3 +61,12 @@ permalink: /publications/
 
 {% endfor %}
 <br/>
+
+
+## Patents
+<em> Xiongfeng Ma and Qi Zhao </em><br />Measurement-device-independent quantum key distribution with biasedbasis choice<br /> Patent number: ZL201621455743.9
+
+<em> Xiongfeng Ma and Qi Zhao </em><br />Quantum key distribution based on two-way classical communication <br /> Patent number: ZL201621440463.0
+
+<em> Xiongfeng Ma and Qi Zhao </em><br />Quantum key distribution data postprocessing for detector efficiencymismatc <br /> Patent number: CN105049200A
+
