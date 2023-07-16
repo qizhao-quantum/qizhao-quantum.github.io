@@ -55,7 +55,7 @@
 
 
 - title: "Hamiltonian simulation with random inputs"
-  image: selftesting1.pdf
+  image: random_input.png
   description: Here we 
   authors: <span class="mqq">Q. Zhao</span>, Y. Zhou, A. F. Shaw, T. Li, and A. M. Childs.
   link:
@@ -67,7 +67,7 @@
 
 
 - title: "Robust self-testing of multiparticle entanglement"
-  image: self-test-prl.png
+  image: prl_127_230503.png
   description: Here, we demonstrate the first robust self-testing for multi-particle quantum entanglement. We prepare two examples of four-photon graph states, the Greenberger-Horne-Zeilinger (GHZ) states with a fidelity of 0.957(2) and the linear cluster states with a fidelity of 0.945(2). Based on the observed input-output statistics, we certify the genuine four-photon entanglement and further estimate their qualities with respect to realistic noise in a device-independent manner.
   authors: D. Wu, <span class="mqq">Q. Zhao</span> (Co-first author), X.-M. Gu, H.-S. Zhong, Y. Zhou, L.-C. Peng, J. Qin, Y.-H. Luo,K. Chen, L. Li, N.-L. Liu, C.-Y. Lu, and J.-W.
   link:
@@ -79,7 +79,7 @@
 
 
 - title: "Exploiting anticommutation in Hamiltonian simulation"
-  image: Anti.png
+  image: anti.png
   description: Here, we theoretically explore the role of anti-commutative relation in Hamiltonian simulation. We find that, contrary to our intuition, anticommutative relations could also reduce the hardness of Hamiltonian simulation.  Specifically, Hamiltonians with mutually anti-commutative terms are easy to simulate, as what happens with ones consisting of mutually commutative terms.  Such a property is further utilized to reduce the algorithmic error or the gate complexity in the truncated Taylor series quantum algorithm for general problems.  Moreover, we propose two modified linear combinations of unitaries methods tailored for Hamiltonians with different degrees of anti-commutation. We numerically verify that the proposed methods exploiting anti-commutative relations could significantly improve the simulation accuracy of electronic Hamiltonians.
   authors: <span class="mqq">Q. Zhao</span> and X. Yuan
   link:
@@ -99,7 +99,7 @@
   news2: #See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
   
 - title: "Quantum simulation with hybrid tensor networks"
-  image: tensor.png
+  image: hybrid_tensor.png
   description: Here, we introduce the framework of hybrid tensor networks with building blocks consisting of measurable quantum states and classically contractable tensors, inheriting both their distinct features in efficient representation of many-body wave functions. With the example of hybrid tree tensor networks, we demonstrate efficient quantum simulation using a quantum computer whose size is significantly smaller than the one of the target system.  
   authors: X. Yuan, J. Sun, J. Liu, <span class="mqq">Q. Zhao</span>, and Y. Zhou
   link:
