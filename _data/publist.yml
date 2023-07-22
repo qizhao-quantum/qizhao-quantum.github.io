@@ -56,7 +56,7 @@
 
 - title: "Hamiltonian simulation with random inputs"
   image: random_input.png
-  description: Here we 
+  description: The algorithmic error of digital quantum simulations is usually explored in terms of the spectral norm distance between the actual and ideal evolution operators. In practice, this worst-case error analysis may be unnecessarily pessimistic. To address this, we develop a theory of average-case performance of Hamiltonian simulation with random initial states. We relate the average-case error to the Frobenius norm of the multiplicative error and give upper bounds for the product formula (PF) and truncated Taylor series methods. As applications, we estimate average-case error for the digital Hamiltonian simulation of general lattice Hamiltonians and k-local Hamiltonians. In particular, for the nearest-neighbor Heisenberg chain with n spins, the error is quadratically reduced from O(n) in the worst case to O(√n) on average for both the PF method and the Taylor series method. Numerical evidence suggests that this theory accurately characterizes the average error for concrete models. We also apply our results to error analysis in the simulation of quantum scrambling.
   authors: <span class="mqq">Q. Zhao</span>, Y. Zhou, A. F. Shaw, T. Li, and A. M. Childs.
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevLett.129.270502
