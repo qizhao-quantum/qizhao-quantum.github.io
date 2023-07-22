@@ -199,7 +199,7 @@
 
 - title: "One-shot coherence distillation with catalysts"
   image: DomePub.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
+  description: Our first completely home-built STM is alive! And it has the world's highest resonance frequency.
   authors: S. Chen, X. Zhang, Y. Zhou, and <span class="mqq">Q. Zhao</span>*
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevA.100.042323
@@ -219,7 +219,7 @@
   news1: 
   
 - title: "Quantum coherence and intrinsic randomness"
-  image: Fano.png
+  image: dummy.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: X. Yuan, <span class="mqq">Q. Zhao</span>, D. Girolami, and X. Ma
   link:

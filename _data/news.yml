@@ -1,27 +1,30 @@
 - date: Summer 2023
-  headline: Yue Wang join the group as a PhD student with HKU Presidential PhD Scholarship. Jue Xu join the group as a PhD student.
+  headline: Yue Wang join the group as a PhD student with <a href="https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme">HKU-PS</a>. Jue Xu join the group as a PhD student.
 
 # - date: 3. Jul 2023
 #   headline: Jue Xu join the group as a PhD student.
 
 - date: 6. Dec 2022
-  headline: Our work "Hamiltonian simulation with random inputs (Phys. Rev. Lett. 129.270502)"  is published in Physical Review Letters.
+  headline: Our work "Hamiltonian simulation with random inputs <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.270502">(Phys. Rev. Lett. 129.270502)</a>"  is published in Physical Review Letters. 
+  # [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.270502)
 
 - date: 1. Oct 2022
-  headline: Wenjun Yu join the group as a PhD student with HKU Presidential PhD Scholarship.  Dr. Fei Shi join the group as a Post-doc.
-  # (https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme). 
+  headline: <a href="https://qici.weebly.com/wenjun-yu.html">Wenjun Yu</a> join the group as a PhD student with <a href="https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme">HKU Presidential PhD Scholarship (HKU-PS)</a>. 
+
+- date: 1. Sep 2022
+  headline: <a href="https://qici.weebly.com/fei-shi.html">Dr. Fei Shi</a> join the group as a Postdoctoral Fellow. 
 
 - date: 5. July 2022
-  headline: Qi Zhao join the Department of Computer Science, the University of Hong Kong as an Assistant Professor. 
+  headline: <a href="https://qici.weebly.com/qi-zhao.html">Qi Zhao</a> join the Department of Computer Science, the University of Hong Kong as an Assistant Professor. 
 
 - date: 4. June 2022
-  headline: Our work "Closing the locality and detection loopholes in multiparticle entanglement self-testing (Phys. Rev. Lett. 128, 250401)"  is published in Physical Review Letters.
+  headline: Our work "Closing the locality and detection loopholes in multiparticle entanglement self-testing <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.250401">(Phys. Rev. Lett. 128, 250401)</a>"  is published in Physical Review Letters.
 
 - date: 3. March 2022
-  headline: Our work "Hamiltonian simulation with random inputs (ArXiv:2111.04773, 2021)"  is presented as a QIP 2022 contributed talk 
+  headline: Our work "Hamiltonian simulation with random inputs <a href="https://arxiv.org/abs/2111.04773">(arXiv:2111.04773, 2021)</a>"  is presented as a <a href="https://www.youtube.com/watch?v=P2EbYkFQdVo">QIP 2022 contributed talk</a>. 
 
 - date: 2. Dec 2021
-  headline: Our work "Robust Self-Testing of Multiparticle Entanglement (Phys. Rev. Lett. 127, 230503)"  is published in Physical Review Letters.
+  headline: Our work "Robust Self-Testing of Multiparticle Entanglement <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.230503">(Phys. Rev. Lett. 127, 230503)</a>"  is published in Physical Review Letters.
 
 - date: 1. October 2021
   headline: Qi Zhao's website is online!

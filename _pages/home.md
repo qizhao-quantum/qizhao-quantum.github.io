@@ -5,7 +5,7 @@ excerpt: "Qi Zhao"
 sitemap: false
 permalink: /
 ---
-Dr. Qi Zhao is a Tenure-Track Assistant Professor in the Department of Computer Science, the University of Hongkong (HKU). 
+Dr. Qi Zhao is a Tenure-Track Assistant Professor in the [Department of Computer Science](https://www.cs.hku.hk/), the University of Hong Kong (HKU). 
 
 His research interests include quantum simulation, quanutm computing, resource theory, self-testing quantum information, and entanglement detection.
 
