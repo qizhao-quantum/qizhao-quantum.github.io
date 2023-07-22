@@ -1,3 +1,3 @@
 # 
 
-This is the Qi Zhao's personal website.
+This is the Qi Zhao's group website.
