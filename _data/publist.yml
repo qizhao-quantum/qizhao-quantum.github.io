@@ -147,7 +147,7 @@
   news2:
 
 - title: "Measurement-device-independent entanglement witness of tripartite entangled states and its applications"
-  image: MDIthree.png
+  image: prl_124_160503.png
   authors: Z.-D. Li, <span class="mqq">Q. Zhao</span> (Co-first author), R. Zhang, L.-Z. Liu, X.-F. Yin, X. Zhang, Y.-Y. Fei, K. Chen, N.-L. Liu, F. Xu, Y.-A. Chen, L. Li, and J.-W. Pan
   description: Here, for the first time, we demonstrate MDIEW for multipartite entangled states. We experimentally detect the genuine entanglement and the entanglement structure of a tripartite entangled state based on an eight-photon interferometry. Furthermore, with the verified multipartite entangled state, we demonstrate quantum randomness generation and open-destination quantum key distribution in an measurement-device-independent manner.
   link:
@@ -250,7 +250,7 @@
 
 
 - title: "One-shot coherence distillation: Towards completing the picture"
-  image: distillIEEE.png
+  image: one_shot_coherence_complete.png
   description: We consider the one-shot problem of distilling pure coherence from a single instance of a given resource state. Specifically, we determine the distillable coherence with a given fidelity under incoherent operations (IO) through a generalization of the Winter-Yang protocol. We also relate the distillable coherence under strictly incoherent operations (SIO) to a constrained hypothesis testing.
   authors:
     <span class="mqq">Q. Zhao</span>*, Y. Liu, X. Yuan, E. Chitambar, and A.Winter
@@ -293,7 +293,7 @@
  #news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
 
 - title: "Entanglement structure: Entanglement partitioning in multipartite systems and its experimental detection using optimizable witnesses"
-  image: dummy.png
+  image: entanglement_structure.png
   description: Here, we propose two complementary families of witnesses for the identification of such structures. They are based, respectively, on the detection of entanglement intactness and entanglement depth, each applicable to an arbitrary number of subsystems and whose evaluation requires only the implementation of solely two local measurements. Our method is also robust against noises and other imperfections, as reflected by our experimental implementation of these tools to verify the entanglement structure of five different eight-photon entangled states. In particular, we demonstrate how their entanglement structure can be precisely and systematically inferred from the experimental measurement of these witnesses. In achieving this goal, we also illustrate how the same set of data can be classically postprocessed to learn the most about the measured system.
   authors: H. Lu, <span class="mqq">Q. Zhao</span> (Co-first author), Z.-D. Li, X.-F. Yin, X. Yuan, J.-C. Hung, L.-K. Chen, L. Li, N.-L. Liu, C.-Z. Peng, Y.-C. Liang, X. Ma, Y.-A. Chen, and J.-W. Pan
   link:
@@ -316,7 +316,7 @@
 
 
 - title: "One-shot coherence dilution"
-  image: dilution.png
+  image: one_shot_coherence.png
   description: This Letter establishes the one-shot theory of coherence dilution, which involves converting maximally coherent states into an arbitrary quantum state using maximally incoherent operations, dephasing-covariant incoherent operations, incoherent operations, or strictly incoherent operations. We introduce several coherence monotones with concrete operational interpretations that estimate the one-shot coherence cost—the minimum amount of maximally coherent states needed for faithful coherence dilution. Furthermore, we derive the asymptotic coherence dilution results with maximally incoherent operations, incoherent operations, and strictly incoherent operations as special cases. Our result can be applied in the analyses of quantum information processing tasks that exploit coherence as resources, such as quantum key distribution and random number generation.
   authors:
     <span class="mqq">Q. Zhao</span>, Y. Liu, X. Yuan, E. Chitambar, and X. Ma
@@ -349,8 +349,8 @@
 
 
 - title: "Experimental blind quantum computing for a classical client"
-  image: dummy.png
-  description: ""
+  image: blind_quantum_computing.png
+  description: "To date, blind quantum computing demonstrations require clients to have weak quantum devices. Here we implement a proof-of-principle experiment for completely classical clients. Via classically interacting with two quantum servers that share entanglement, the client accomplishes the task of having the number 15 factorized by servers who are denied information about the computation itself. This concealment is accompanied by a verification protocol that tests servers' honesty and correctness. Our demonstration shows the feasibility of completely classical clients and thus is a key milestone towards secure cloud quantum computing."
   authors: H.-L. Huang, <span class="mqq">Q. Zhao</span>, X. Ma, C. Liu, Z.-E. Su, X.-L.Wang, L. Li, N.-L. Liu, B. C. Sanders, C.-Y. Lu, and J.-W. Pan
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevLett.119.050503
