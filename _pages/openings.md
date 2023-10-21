@@ -10,7 +10,7 @@ permalink: /joinus
 <div class="largefont">
 <!-- We have multiple opennings for new Ph.D. students, Master students and undergraduate students to join our Group.  -->
 <!-- Feel free to send [[me]](./team) an email for subsequent discussions.  -->
-* We have several opennings for **Phd** students (**2023** or **2024**). If you are interested in quantum computing, quantum simulation, and quantum information, feel free to send [[me]](./team) an email with your CV for subsequent discussions.
+* We have several opennings for **PhD** students (**2023** or **2024**). If you are interested in quantum computing, quantum simulation, and quantum information, feel free to send [[me]](./team) an email with your CV for subsequent discussions.
 </div>
 
 <!-- ### Opennings -->

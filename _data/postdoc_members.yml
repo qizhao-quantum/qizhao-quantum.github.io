@@ -12,9 +12,18 @@
   photo: fei.jpg
   # https://qici.weebly.com/fei-shi.html
   info: Postdoc, co-advised with Prof. Giulio Chiribella
-  email: shifei[at] mail [dot] ustc [dot] edu [dot] cn
+  email: shifei [at] mail [dot] ustc [dot] edu [dot] cn
   number_educ: 3
   education1: Ph.D., School of Cyber Science and Technology, University of Science and Technology of China
   education2: Master, School of Mathematical Sciences, University of Science and Technology of China
   education3: B.S., School of Mathematics and Information Science, Guangzhou University
+
+- name: Tianfeng Feng
+  photo: tianfeng.jpg
+  info: Postdoc, co-advised with Prof. Giulio Chiribella
+  email: fengtf [at] hku [dot] hk
+  number_educ: 2
+  education1: Ph.D., in Quantum Physics, Sun Yat-sen University
+  education2: B.S., in Physical Science, Guangdong University of Technology
+
 
