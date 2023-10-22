@@ -33,7 +33,7 @@ The following is a subset of our rapidly growing team. We are continuously looki
   <i>{{ member.title }}</i>
   </div>
 
-  email: <span class="eml">{{ member.email }}</span>, <span class="eml">{{ member.email2 }}</span>
+  Email: <span class="eml">{{ member.email }}</span>, <span class="eml">{{ member.email2 }}</span>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -116,6 +116,8 @@ The following is a subset of our rapidly growing team. We are continuously looki
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><!--<br>email: <span class="eml">{{ member.email }}</span>-->
+
+  Email: <span class="eml">{{ member.email }}</span>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -171,6 +173,8 @@ The following is a subset of our rapidly growing team. We are continuously looki
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><!--<br>email: <span class="eml">{{ member.email }}</span>-->
+
+  <!-- Email: <span class="eml">{{ member.email }}</span> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
