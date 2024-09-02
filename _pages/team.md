@@ -159,7 +159,7 @@ The following is a subset of our rapidly growing team. We are continuously looki
 {% endif %}
 
 ---
-### Ph.D. Students
+### Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.doctor_members %}
 
@@ -174,7 +174,7 @@ The following is a subset of our rapidly growing team. We are continuously looki
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><!--<br>email: <span class="eml">{{ member.email }}</span>-->
 
-  <!-- Email: <span class="eml">{{ member.email }}</span> -->
+  Email: <span class="eml">{{ member.email }}</span>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -217,9 +217,10 @@ The following is a subset of our rapidly growing team. We are continuously looki
 
 ---
 
-### Visitors
+### Visitors/Interns
 {% assign number_printed = 0 %}
-{% for member in site.data.master_members %}
+{% for member in site.data.alumni_visitors %}
+
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -228,8 +229,8 @@ The following is a subset of our rapidly growing team. We are continuously looki
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> -->
+  <h5>{{ member.name }}</h5>
   <i>{{ member.info }}</i><!--<br>email: <span class="eml">{{ member.email }}</span>-->
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
