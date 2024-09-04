@@ -31,4 +31,27 @@
   email: Yuewang142857 [at] gmail [dot] com
   number_educ: 2
   education1: Msc in Quantum Dynamics, Imperial College London
-  education2: Bsc in Physicsh, University College London
+  education2: Bsc in Physics, University College London
+
+
+- name: Jiayi Wu
+  photo: jiayi.jpg
+  info: Ph.D. Student
+  email: jiayi_wu_99 [at] connect [dot] hku [dot] hk
+  number_educ: 2
+  education1: MSc, Mathematical and Theoretical Physics, University of Oxford
+  education2: BSc, Major in Physics, Mathematics, The University of Hong Kong
+
+- name: Yue Cao
+  photo: yue_cao.jpg
+  info: MPhil Student
+  email: Y.Cao_HKU [at] connect [dot] hku [dot] hk
+  number_educ: 1
+  education1: B.S School of Physics, Peking University 
+
+- name: Kaiyi Guo
+  photo: kaiyi.jpg
+  info: MPhil Student
+  email: kaiyi.guo [at] connect [dot] hku [dot] hk
+  number_educ: 1
+  education1: B.S School of Physics, Peking University 
