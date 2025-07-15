@@ -11,7 +11,8 @@ His research interests include quantum simulation, quanutm computing, resource t
 
 He is interested in any fundamental problem in quantum information, and the practical applications of quantum computers.
 
-He received his PhD degree from Tsinghua University in Dec. 2018.
+<!-- He received his PhD degree from Tsinghua University in Dec. 2018. -->
+He received his bachelor’s and PhD degrees from Tsinghua University in 2014 and 2018, respectively.
 
 Then he became a postdoctoral researcher in University of Science and Technology, China from Jan. 2019 to Oct. 2019.
 
