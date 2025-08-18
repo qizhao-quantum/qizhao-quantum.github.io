@@ -1,5 +1,14 @@
+- date: Aug, 2025
+  headline: Our project has been awarded 2025 CCF-Tencent Rhino-Bird Fund. 
+
+- date: Aug, 2025
+  headline: Our collaborative works " Exponentially Reduced Circuit Depths in Lindbladian Simulation" and " Entanglement accelerates quantum simulation " have been presented as AQIS 2025 long talks.
+
+- date: Aug, 2025
+  headline: Our collaborative works "Entanglement Detection Length of Multipartite Quantum States" and "Design nearly optimal quantum algorithm for linear differential equations via Lindbladians " have been presented as AQIS 2025 contributed talks. 
+
 - date: July, 2025
-  headline: Our work "Entanglement accelerates quantum simulation", in collaboration with Prof. Andrew M. Childs from the University of Maryland and Prof. You Zhou from Fudan University, has been published in <a href="https://www.nature.com/articles/s41567-025-02945-2">Nature Physics</a>. 
+  headline: <a href="https://www.nature.com/nphys/volumes/21/issues/8"><img src="/images/NP-cover.png" style="width:150px; float:right; margin-left:10px; margin-right:10px; margin-top:-40px;"/></a> Our work "Entanglement accelerates quantum simulation", in collaboration with Prof. Andrew M. Childs from the University of Maryland and Prof. You Zhou from Fudan University, has been published in <a href="https://www.nature.com/articles/s41567-025-02945-2">Nature Physics</a> as a <a href="https://www.nature.com/nphys/volumes/21/issues/8">cover article</a>. 
 
 - date: June, 2025
   headline: "Our work \"Quantum Differential Equation Solvers: Limitations and Fast-Forwarding\" in collaboration with Prof. Dong An from Peking University, Prof. Jin-Peng Liu from Tsinghua University, and Prof. Daochen Wang from University of British Columbia , has been published in <a href=\"https://link.springer.com/article/10.1007/s00220-025-05358-7\">Communications in Mathematical Physics</a>."
