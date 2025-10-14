@@ -1,0 +1,135 @@
+---
+layout: default
+---
+<style>
+.slideshow-container {
+  position: relative;
+  margin-bottom: 5px;
+}
+
+.slide {
+  display: none;
+}
+
+.slide.active {
+  display: block;
+}
+
+.slide-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 40px;
+  color: #ccc;
+  cursor: pointer;
+  user-select: none;
+  z-index: 10;
+  padding: 10px 15px;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.slide-arrow:hover {
+  background-color: rgba(200, 200, 200, 0.6);
+  color: #666;
+}
+
+.slide-arrow.left {
+  left: 10px;
+}
+
+.slide-arrow.right {
+  right: 10px;
+}
+
+.slide-indicator {
+  text-align: center;
+  color: #999;
+  font-size: 12px;
+  padding: 5px 0;
+}
+</style>
+
+<div id="research" class="col-sm-12">
+  {{ content }}
+
+  {% assign slideshow_id = 0 %}
+  {% for section in site.data.research_highlights %}
+  <div id="{{ section.name | slugify }}" style="padding-top: 20px; margin-top: -20px;"></div>
+  <h2>{{ section.name }}</h2>
+
+  {% for subsection in section.subsections %}
+  <div id="{{ subsection.name | slugify }}" style="padding-top: 15px; margin-top: -15px;"></div>
+  <h3>{{ subsection.name }}</h3>
+
+  {% assign slideshow_id = slideshow_id | plus: 1 %}
+  <div class="slideshow-container" id="slideshow-{{ slideshow_id }}">
+    <span class="slide-arrow left" onclick="changeSlide({{ slideshow_id }}, -1)">&#10094;</span>
+    <span class="slide-arrow right" onclick="changeSlide({{ slideshow_id }}, 1)">&#10095;</span>
+
+    {% for highlight in subsection.highlights %}
+    <div class="slide {% if forloop.first %}active{% endif %}">
+      <div class="row">
+        <div class="col-sm-12 clearfix">
+          <div class="well" style="overflow: hidden; padding-bottom: 0; margin-bottom: 0;">
+            <pubtit>{{ highlight.title }}</pubtit>
+            <p><em>{{ highlight.authors }}</em>, <strong><a href="{{ highlight.link.url }}">{{ highlight.link.display }}</a></strong></p>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ highlight.image }}" class="img-responsive" style="float: left; margin-right: 20px; margin-bottom: 10px; max-width: 20%; height: auto;" />
+            <p>{{ highlight.description }}</p>
+            <p class="text-danger"><strong> {{ highlight.news1 }}</strong></p>
+            <p> {{ highlight.news2 }}</p>
+            <div style="clear: both;"></div>
+            <div class="slide-indicator">
+              <span id="indicator-{{ slideshow_id }}">{{ forloop.index }} / {{ subsection.highlights.size }}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  {% endfor %}
+  {% endfor %}
+</div>
+
+<script>
+// Track current slide index for each slideshow
+const currentSlides = {};
+
+// Initialize all slideshows
+{% assign slideshow_id = 0 %}
+{% for section in site.data.research_highlights %}
+  {% for subsection in section.subsections %}
+    {% assign slideshow_id = slideshow_id | plus: 1 %}
+    currentSlides[{{ slideshow_id }}] = 0;
+  {% endfor %}
+{% endfor %}
+
+function changeSlide(slideshowId, direction) {
+  const slideshow = document.getElementById('slideshow-' + slideshowId);
+  const slides = slideshow.querySelectorAll('.slide');
+  const totalSlides = slides.length;
+
+  // Hide current slide
+  slides[currentSlides[slideshowId]].classList.remove('active');
+
+  // Update current slide index with infinite loop
+  currentSlides[slideshowId] = (currentSlides[slideshowId] + direction + totalSlides) % totalSlides;
+
+  // Show new slide
+  slides[currentSlides[slideshowId]].classList.add('active');
+}
+
+// Optional: Add keyboard navigation
+document.addEventListener('keydown', function(event) {
+  if (event.key === 'ArrowLeft') {
+    // Navigate all slideshows left (you can modify to only affect visible one)
+    Object.keys(currentSlides).forEach(id => changeSlide(parseInt(id), -1));
+  } else if (event.key === 'ArrowRight') {
+    // Navigate all slideshows right
+    Object.keys(currentSlides).forEach(id => changeSlide(parseInt(id), 1));
+  }
+});
+</script>
