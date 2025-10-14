@@ -44,14 +44,38 @@
 
 - name: Yue Cao
   photo: yue_cao.jpg
-  info: MPhil Student
+  info: PhD Student
   email: Y.Cao_HKU [at] connect [dot] hku [dot] hk
   number_educ: 1
   education1: B.S School of Physics, Peking University 
 
 - name: Kaiyi Guo
   photo: kaiyi.jpg
-  info: MPhil Student
+  info: PhD Student
   email: kaiyi.guo [at] connect [dot] hku [dot] hk
   number_educ: 1
   education1: B.S School of Physics, Peking University 
+
+
+- name: Xiangran Zhang
+  photo: zxr.jpg
+  info: PhD Student
+  email: zhangxiangran [at] connect [dot] hku [dot] hk
+  number_educ: 1
+  education1: B.S Department of Physics, Tsinghua University 
+
+
+- name: Shen Cao
+  photo: cs.jpg
+  info: PhD Student
+  email: shencao2002 [at] connect [dot] hku [dot] hk
+  number_educ: 1
+  education1: B.S. in Mathematics and Applied Mathematics, Central South University
+
+
+- name: Chenyan Wang
+  photo: wcy.jpg
+  info: PhD Student
+  email: cywangworking [at] gmail [dot] com
+  number_educ: 1
+  education1: MPhys in University of Oxford
